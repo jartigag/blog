@@ -18,8 +18,8 @@ twitterReplies: https://twitter.com/jartigag/status/1346835854208212993
 ---
 
 <script type="text/javascript" src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-<link rel="stylesheet" media="all" href="{{site.baseurl}}/src/scroll-timeline.css">
-<script type="text/javascript" src="{{site.baseurl}}/src/scroll-timeline.js"></script>
+<link rel="stylesheet" media="all" href="{{site.baseurl}}/assets/css/scroll-timeline.css">
+<script type="text/javascript" src="{{site.baseurl}}/assets/js/scroll-timeline.js"></script>
 
 <nav class="timeline__nav">
   <ul>
