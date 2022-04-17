@@ -1,0 +1,70 @@
+/*Colorscheme selectable via JS with smooth transition*/
+
+html.color-theme-in-transition,
+html.color-theme-in-transition *,
+html.color-theme-in-transition *:before,
+html.color-theme-in-transition *:after {
+  transition: all 750ms !important;
+  transition-delay: 0 !important;
+}
+
+html[data-theme="light"]{
+  --bg-color:       #fff;
+  --tx-color:       #222;
+  --detail-color:   #515151;
+  --link-color:     #1eaedb;
+  --highlight-color:#eee;
+}
+html[data-theme="dark"] {
+  --bg-color:       #2f2f2f;
+  --tx-color:       #eee;
+  --detail-color:   #bbb;
+  --link-color:     #1eaedb;
+  --highlight-color:#4a4a4a;
+}
+:root{
+  --bg-color:       #fff;
+  --tx-color:       #222;
+  --detail-color:   #515151;
+  --link-color:     #1eaedb;
+  --highlight-color:#eee;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg-color:       #2f2f2f;
+    --tx-color:       #eee;
+    --detail-color:   #bbb;
+    --link-color:     #1eaedb;
+    --highlight-color:#4a4a4a;
+  }
+}
+
+#theme-switch > svg {
+  fill: var(--tx-color);
+}
+
+#theme-switch{
+  background: none;
+  border: none;
+  position: absolute;
+  right: 0;
+  top: 0;
+  font-size: 1rem;
+
+  margin: 1em;
+}
+
+@media only screen{
+  #theme-switch{
+    display: inline-block;
+  }
+}
+
+/* Overwrite colors to vars if supported */
+body{
+  color:            var(--tx-color);
+  background-color: var(--bg-color);
+}
+a {
+  color:            var(--link-color);
+}

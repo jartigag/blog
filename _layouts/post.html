@@ -1,0 +1,81 @@
+---
+layout: default
+---
+
+<article
+  class="post h-entry"
+  itemscope
+  itemtype="http://schema.org/BlogPosting"
+>
+  <head>
+    <script type="text/javascript" async
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
+    <title>{{ page.title }}</title>
+  </head>
+  <header class="post-header">
+    <div class="post-back">
+      <a class="black-link" href="{{ site.url | relative_url }}">
+        ← {{ site.arreando.back_to }}
+      </a>
+    </div>
+
+    <h1 class="post-title p-name" itemprop="name headline">
+      {{ page.title | escape }}
+    </h1>
+    <p class="post-meta">
+      <time
+        class="dt-published"
+        datetime="{{ page.date | date_to_xmlschema }}"
+        itemprop="datePublished"
+      >
+        {%- assign date_format = "%b %-d, %Y" -%}
+        {{ page.date | date: date_format }}
+      </time>
+      {%- if page.author -%} •
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a class="post-meta" href="{{ site.url }}/about">
+        <span class="p-author h-card" itemprop="name">{{
+              page.author | escape
+            }}
+        </span>
+        </a>
+      </span>
+      {%- endif -%}
+    </p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  {% if page.mastodonReplies or page.twitterReplies %}
+    <div style="text-align: center; padding-top: 1em">
+    <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+        <g>
+            <path fill="none" d="M0 0h24v24H0z"/>
+            <path d="M11 14v5L1 11l10-8v5c5.523 0 10 4.477 10 10 0 .273-.01.543-.032.81A8.999 8.999 0 0 0 13 14h-2z"/>
+        </g>
+    </svg>
+      <span>
+        View replies to this post on<br>
+        {% if page.mastodonReplies %}<a href="{{ page.mastodonReplies }}">[Mastodon]</a>{% endif %}
+        {% if page.twitterReplies %}<a href="{{ page.twitterReplies }}"> [Twitter]</a>{% endif %}
+      </span>
+    </div>
+  {% endif %}
+
+  {% if site.related %}
+      {% include related.html %}
+  {% endif %}
+
+  {% if site.show-tags %}
+      <div class="post-tags">
+          {% for tag in page.tags %}
+              <a class="post-tag black-link" href="{{ site.url }}/tags/#{{ tag | slugify }}">{{ tag }}</a>
+          {% endfor %}
+      </div>
+  {% endif %}
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>
