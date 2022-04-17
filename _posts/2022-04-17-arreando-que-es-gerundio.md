@@ -10,8 +10,8 @@ tag:
 - web
 - css
 - javascript
-mastodonReplies: https://mastodon.social/@jartigag/##################
-twitterReplies: https://twitter.com/jartigag/status/###################
+mastodonReplies: https://mastodon.social/@jartigag/108148931771204614
+twitterReplies: https://twitter.com/jartigag/status/1515765005219766277
 ---
 
 Estos días iba a aprovechar para hacer muchas cosas.
