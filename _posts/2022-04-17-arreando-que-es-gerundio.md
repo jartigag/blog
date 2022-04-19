@@ -39,7 +39,7 @@ Partí de una nueva base, un tema minimalista para Jekyll llamado "[moving](http
 Está bastante bien, pero quería adaptar alguna que otra cosa a mi manera.
 ¿Qué se hace en estos casos cuando disponemos del código fuente?
 ¡Un fork que se ajuste mejor a lo que queremos!
-Así es como empecé un nuevo tema para Jekyll: "[*arrreando*](https://github.com/jartigag/arreando#readme)".
+Así es como empecé un nuevo tema para Jekyll: "[*arreando*](https://github.com/jartigag/arreando#readme)".
 
 ![](https://raw.githubusercontent.com/jartigag/arreando/master/github/banner.png)
 
