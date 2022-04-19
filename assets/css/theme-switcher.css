@@ -14,6 +14,7 @@ html[data-theme="light"] {
   --strong-color:  #000;
   --link-color: #1eaedb;
   --border-color:  #eee;
+  --detail-color:  #222;
 }
 html[data-theme="dark"] {
   --bg-color:     #2f2f2f;
@@ -21,6 +22,7 @@ html[data-theme="dark"] {
   --strong-color:    #fff;
   --link-color:   #1eaedb;
   --border-color: #4a4a4a;
+  --detail-color:    #eee;
 }
 :root {
   --bg-color:      #fff;
@@ -28,6 +30,7 @@ html[data-theme="dark"] {
   --strong-color:  #000;
   --link-color: #1eaedb;
   --border-color:  #eee;
+  --detail-color:  #222;
 }
 @media (prefers-color-scheme: dark) {
   :root {
@@ -36,6 +39,7 @@ html[data-theme="dark"] {
     --strong-color:    #fff;
     --link-color:   #1eaedb;
     --border-color: #4a4a4a;
+    --detail-color:    #eee;
   }
 }
 
