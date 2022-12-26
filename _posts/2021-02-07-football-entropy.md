@@ -3,7 +3,7 @@ title:  "football-entropy"
 layout: post
 date:   2021-02-07
 projects: true
-redirect_to: https://jartigag.xyz/football-entropy
+redirect_to: https://javier.artiga.es/football-entropy
 author: jartigag
 image: /assets/images/posts/leagues_pred.png
 tag:

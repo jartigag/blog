@@ -4,7 +4,7 @@ layout: post
 date:   2020-10-30
 projects: true
 permalink: /tfm
-redirect_to: https://jartigag.xyz/tfm-clustering
+redirect_to: https://javier.artiga.es/tfm-clustering
 author: jartigag
 image: /assets/images/posts/tfm.png
 tag:

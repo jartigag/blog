@@ -17,7 +17,7 @@ Para el trabajo final de la asignatura de Seguridad, trasteamos un poco con rede
 menos nosotros consideramos que la gente debería ser consciente de lo fácil que es engañar a los dispositivos de una red WiFi. ¿Estaría esto al
 alcance de tus conocimientos informáticos? ¿Y al alcance de alguien cercano a ti? ¿Quizás alguien de quien te debas preocupar...? 😱
 
-<a href="https://jartigag.xyz/captive"><img src="{{site.baseurl}}/assets/images/posts/captive.png"></a>
+<a href="https://javier.artiga.es/captive"><img src="{{site.baseurl}}/assets/images/posts/captive.png"></a>
 
 #### Alerta [script kiddies](https://knowyourmeme.com/memes/script-kiddie)
 
