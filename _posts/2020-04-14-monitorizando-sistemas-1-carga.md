@@ -12,6 +12,7 @@ tag:
 - linux
 - email
 - sysadmin
+- sistemas
 mastodonReplies: https://mastodon.social/@jartigag/104002381896777739
 twitterReplies: https://twitter.com/jartigag/status/1250389045458370562
 ---

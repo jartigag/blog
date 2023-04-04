@@ -124,9 +124,9 @@ sobre empresas tecnológicas, que aumentaban su valor con solo empezar por "e-" 
 en 1994), eBay (95), Yahoo (95) y Google (98). En España, la burbuja quedó patente con [Terra](https://elpais.com/tecnologia/2005/07/15/actualidad/1121416078_850215.html).
 
 
-Un nuevo símbolo se hace cada vez más frecuente en los diagramas de red: **la nube**. Independientemente del sistema que estuviera diseñando el ingeniero,
+<p id="la-nube">Un nuevo símbolo se hace cada vez más frecuente en los diagramas de red: <b>la nube</b>. Independientemente del sistema que estuviera diseñando el ingeniero,
 lo único que necesitaba saber de su relación con el exterior es que se podía conectar a esa nube. Con el tiempo, todo se definió respecto a la nube y a la
-velocidad a la que podían intercambiarse datos con ella.
+velocidad a la que podían intercambiarse datos con ella.</p>
 
 > "A medida que las redes crecieron y se interconectaron, la nube se hizo más importante. Se convirtió en una *buzzword* del negocio, en algo más que una
 > abreviatura ingenieril: [se convirtió en una metáfora](https://www.theguardian.com/books/2018/jun/15/rise-of-the-machines-has-technology-evolved-beyond-our-control-).
