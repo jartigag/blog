@@ -160,7 +160,7 @@ Para tener un punto de partida, la autora del libro ofrece la siguiente lista de
 
 Por último, vamos con los tres más influyentes:
 
-`[3]`. **El propósito del sistema**: los bucles compensadores suelen tener sus propios objetivos, pero existen objetivos que afectan a la totalidad del sistema, por lo que permiten una intervención aún más eficaz. Los actores no siempre reconocen cuaĺ es este objetivo global.
+`[3]`. **El propósito del sistema**: los bucles compensadores suelen tener sus propios objetivos, pero existen objetivos que afectan a la totalidad del sistema, por lo que permiten una intervención aún más eficaz. Los actores no siempre reconocen cuál es este objetivo global.
 
 Por ejemplo, se dice frecuentemente que el objetivo de una empresa es obtener beneficios. Pero eso no es más que una regla, una condición necesaria para seguir jugando. ¿Cuál es la finalidad del juego? Crecer, tomar mayor control del mercado, reducir así la incertidumbre... ¿es por tanto el monopolio el objetivo último?
 
