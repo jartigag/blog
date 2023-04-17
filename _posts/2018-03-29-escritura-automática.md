@@ -28,7 +28,7 @@ La escritura automática es una técnica de la corriente surrealista. Se define 
 inconscientes de quien escribe"**. Se consigue dejando fluir las ideas sin la contención moral o social que suele limitar la redacción.
 
 Oí hablar de la la escritura automática por primera vez en 2007, y me llamó la atención. Ya en los tiempos de Tuenti (!) usábamos el chat y los
-comentarios para aplicarla, sólo por las risas :joy: Una noche hace un par de semanas me acordé, y se me ocurrió que podría usar este recurso
+comentarios para aplicarla, sólo por las risas 😂 Una noche hace un par de semanas me acordé, y se me ocurrió que podría usar este recurso
 literario como excusa para trabajar un poco con los lenguajes web básicos.
 
 Con [esta página](https://jartigag.github.io/ea) he pretendido facilitar una herramienta para **dar rienda suelta a la escritura automática** de

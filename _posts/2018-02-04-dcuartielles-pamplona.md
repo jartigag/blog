@@ -38,7 +38,7 @@ es mi resumen de lo más interesante que allí se trató.
 
 ## David Cuartielles
 
-Superviviente del CPS :wink:, especialidades en la carrera: microelectrónica y elementos de señal. Quería estudiar Bellas Artes, pero en Zaragoza no
+Superviviente del CPS 😉, especialidades en la carrera: microelectrónica y elementos de señal. Quería estudiar Bellas Artes, pero en Zaragoza no
 había, así que trabajó en **Teltronic** (hacen radios para policía, bomberos, etc.) 12 meses como *jefe de proyectos*. Como le picaba mucho llevar
 corbata, en una noche mandó más de 100 ofertas de trabajo a Alemania y se fue a trabajar como *diseñador de microchips* a **Infineon**. Después de 9
 meses supo que no le iba dedicar una jornada completa a programar en Perl, con lo que finalmente llegó a Malmö para ser *profesor* en la **Escuela de
@@ -79,7 +79,7 @@ En 2003, los alumnos de su clase analizaron un **patrón de comportamiento socia
 *confesionario automático* y el alcoholímetro para Sony Ericsson T610 se explican en [esta charla](https://youtu.be/1pKxcqNy-5M).
 
 Para hacer más sencillo estos prototipados, en la noche del 28 de **marzo de 2005** [Massimo](https://massimobanzi.com/) y David hicieron **Arduino
-Uno** con comunicación serie y se fueron de copas. Fue la última vez que David bebió alcohol :stuck_out_tongue_winking_eye:
+Uno** con comunicación serie y se fueron de copas. Fue la última vez que David bebió alcohol 😜
 
 ![Arduino UNO con comunicación RS232](https://upload.wikimedia.org/wikipedia/commons/6/6c/Arduino316.jpg)
 
