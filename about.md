@@ -11,4 +11,4 @@ and simple but smart designs.
 also interested in:  
 [#dataviz](#) [#freesoftware](#) [#music](#)
 
-more on my [curriculum vitae](https://javier.artiga.es/cv?lang=en) ([cv in spanish](https://javier.artiga.es/cv?lang=es) too)
+more on my [personal webpage](https://javier.artiga.es/)
