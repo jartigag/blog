@@ -10,8 +10,8 @@ tag:
 - libro
 - análisis
 - sistemas
-mastodonReplies: https://mastodon.social/@jartigag/xxxxxxxxxxxxxxxxxx
-twitterReplies: https://twitter.com/jartigag/status/xxxxxxxxxxxxxxxxxxx
+mastodonReplies: https://mastodon.social/@jartigag/110158705100299773
+twitterReplies: https://twitter.com/jartigag/status/1644620053785063429
 ---
 
 Estoy acabando[^1] el libro "[Pensar en sistemas](https://www.chelseagreen.com/product/thinking-in-systems/)" de Donella Meadows.
