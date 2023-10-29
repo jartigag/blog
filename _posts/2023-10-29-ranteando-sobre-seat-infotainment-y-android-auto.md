@@ -50,7 +50,7 @@ Gracias a ello, voy a acabar todo el artículo en un Soria-Huesca desde el asien
 
 ---
 
-<a name="fn:1"></a>1: Mediante [CapCut](https://play.google.com/store/apps/details?id=com.lemon.lvoverseas), una de las populares apps del unicornio chino Bytedance, intento aplicar un estilo de edición actual imitando descaradamente a [youtubers](https://youtube.com/@LiveOverflow) [varios](https://youtu.be/mU9ic3CzF-M). ¡Me flipa que una tarea como la edición de vídeo tenga tanta potencia y estabilidad en dispositivos móviles! [↩](#fnref:1)  
+<a name="fn:1"></a>1: Mediante [CapCut](https://play.google.com/store/apps/details?id=com.lemon.lvoverseas), una de las populares apps del unicornio chino Bytedance, intento aplicar un estilo de edición actual imitando descaradamente a algún que otro [youtuber](https://youtube.com/@LiveOverflow). ¡Me flipa que una tarea como la edición de vídeo tenga tanta potencia y estabilidad en dispositivos móviles! [↩](#fnref:1)  
 <a name="fn:2"></a>2: Uso la app [PureWriter](https://play.google.com/store/apps/details?id=com.drakeet.purewriter), un editor de Markdown. Está super cuidada, da gusto. Casualmente también es de origen chino, en este caso del desarrollador [@drakeet](https://github.com/drakeet). [↩](#fnref:2)  
 
 ## Issues
@@ -134,7 +134,7 @@ A ver quién mete mano ahí...
 
 4. En [este hilo](https://www.reddit.com/r/googlehome/comments/ou7gkr/get_google_voice_assistant_to_play_my_spotify/) de r/GoogleHome han sugerido varias ideas que pueden conseguir que el asistente de voz entienda que buscas una playlist en Spotify. Las iré probando, ya os contaré si me funciona alguna.
 
-5. Dicen en r/AndroidAuto (¡que viva la gente de los subreddits!) que [AAWireless tiene una opción para deshabilitar la "pausa de seguridad"](https://www.reddit.com/r/AndroidAuto/comments/12ly2op/safety_pause_back_soon/jg9hdyv).
+5. Dicen en r/AndroidAuto (¡viva la gente de los subreddits!) que [AAWireless tiene una opción para deshabilitar la "pausa de seguridad"](https://www.reddit.com/r/AndroidAuto/comments/12ly2op/safety_pause_back_soon/jg9hdyv).
 Este dongle, aparte de cumplir su cometido por defecto con solo enchufarlo, tiene una [app](https://play.google.com/store/apps/details?id=app.aawireless) que permite ciertas modificaciones avanzadas cuando algo no funciona como debería (¿veis cómo fue una elección acertada?).
 Lo malo es que también he leído que [ese workaround puede provocar bugs en la posición en Google Maps](https://www.androidcentral.com/accessories/audio/aawireless-review)...
 También lo probaré, veremos si me compensa.
