@@ -10,7 +10,7 @@ tag:
 - seat
 - coche
 mastodonReplies: https://mastodon.social/@jartigag/111318786486693868
-twitterReplies: https://twitter.com/jartigag/status/xxxxxxxxxxxxxxxxxxx
+twitterReplies: https://twitter.com/jartigag/status/1718668996877181098
 ---
 
 <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
