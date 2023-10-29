@@ -4,12 +4,12 @@ layout: post
 date:   2023-10-29
 permalink: ranteando-sobre-seat-infotainment-y-android-auto
 author: jartigag
-image: /favicon.ico#/assets/images/posts/android-auto.png
+image: /assets/images/posts/android-auto.png
 tag:
 - android
 - seat
 - coche
-mastodonReplies: https://mastodon.social/@jartigag/xxxxxxxxxxxxxxxxxx
+mastodonReplies: https://mastodon.social/@jartigag/111318786486693868
 twitterReplies: https://twitter.com/jartigag/status/xxxxxxxxxxxxxxxxxxx
 ---
 
@@ -125,7 +125,7 @@ Tampoco veo cómo dotar de más funcionalidad a la ruleta de la derecha, aunque 
 
 2. Cuando mi móvil con Android 11 (e incluso 12, en otoño del año pasado) ya soportaba Android Auto inalámbrico pero mi coche no, me puse a mirar adaptadores USB.
 Entre los cuatro o cinco fabricantes que ofrecían estos dongles por aquel entonces, el que más me gustó fue [AAWireless](https://www.aawireless.io/).
-Lo compré en junio de 2022, justo antes de que sus desarrolladores Emil y Chiel se despidieran de su página de Indiegogo y su soporte vía [GitHub](https://github.com/cpebit) para empezar a vender a través de su web propia y Amazon.
+Lo compré en junio de 2022, justo antes de que sus desarrolladores Emil y Chiel se despidieran de su página de Indiegogo y de su soporte vía [GitHub](https://github.com/cpebit) para empezar a vender a través de su web propia y Amazon.
 Elegir este producto fue un acierto, me alegra que el proyecto siga creciendo.
 
 3. Los atascos renderizando la pantalla de Android Auto, como los problemas del punto 1, no pintan sencillos de arreglar.
