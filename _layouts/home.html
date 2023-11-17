@@ -8,13 +8,11 @@ layout: default
   </head>
   <div class="home-title header-image">
     <p class="home-heading">
-    <a href="{{ site.url }}/about" class="home-heading-detail">
     {% if site.title == "jartigag" %}
-    j<span class="home-heading-detail">artiga</span>g
+    j<span class="home-heading-detail"><a href="{{ site.url }}/about" >artiga</a></span>g
     {% else %}
       {{ site.title }}
     {% endif %}
-    </a>
     </p>
     <p class="home-sub-heading">{{- site.description | escape -}}</p>
   </div>
