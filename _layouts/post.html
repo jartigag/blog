@@ -49,7 +49,7 @@ layout: default
     {{ content }}
   </div>
 
-  {% if page.mastodonReplies or page.twitterReplies %}
+  {% if page.mastodonReplies or page.twitterReplies or page.telegramReplies %}
     <div style="text-align: center; padding-top: 1em">
     <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
         <g>
@@ -61,6 +61,7 @@ layout: default
         View replies to this post on<br>
         {% if page.mastodonReplies %}<a href="{{ page.mastodonReplies }}">[Mastodon]</a>{% endif %}
         {% if page.twitterReplies %}<a href="{{ page.twitterReplies }}"> [Twitter]</a>{% endif %}
+        {% if page.telegramReplies %}<a href="{{ page.telegramReplies }}"> [Telegram]</a>{% endif %}
       </span>
     </div>
   {% endif %}
