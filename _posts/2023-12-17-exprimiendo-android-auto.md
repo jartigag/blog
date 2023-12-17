@@ -142,7 +142,7 @@ Yo solo estaba jugando, pero, a aquellos que se dediquen a trocear proyectos y r
 </div>
 
 Configurarlo no tiene misterio, solo hay que seguir este [artículo de soporte de Any.do+WhatsApp](https://support.any.do/en/articles/8616832-any-do-whatsapp-reminders-tasks).
-Es la misma idea que el "para luego": tener un contacto a tu agenda al que puedes enviarle mensajes.
+Es la misma idea que el "para luego": tener un contacto en tu agenda al que puedes enviarle mensajes.
 La gracia aquí es que Any.do te lo pone directamente en la lista/tablero que corresponde.
 
 Por cierto, ¿en el vídeo se aprecia el detalle de cómo lo he bautizado?
