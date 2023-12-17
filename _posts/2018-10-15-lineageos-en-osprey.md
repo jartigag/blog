@@ -21,12 +21,12 @@ Hace ya un par de semanas instalé un nuevo *sistema operativo Android* en mi an
 [ROM](https://en.wikipedia.org/wiki/List_of_custom_Android_distributions) que continúa el legado de la desaparecida
 [CyanogenMod](https://arstechnica.com/information-technology/2016/12/cyanogen-inc-shuts-down-cyanogenmod-in-christmas-bloodbath/)
 
-<p align="center">
+<div style="text-align: center">
   <iframe src="https://mastodon.social/@jartigag/100822707782160053/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400">
   </iframe>
   <script src="https://mastodon.social/embed.js" async="async">
   </script>
-</p>
+</div>
 
 ## /índice:
 
