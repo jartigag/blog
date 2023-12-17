@@ -9,8 +9,8 @@
     - android
     - seat
     - coche
-    mastodonReplies: https://mastodon.social/@jartigag/xxxxxxxxxxxxxxxxxx
-    telegramReplies: https://t.me/jartigag_blog/xxxxxxxxxxxxxxxxxx
+    mastodonReplies: https://mastodon.social/@jartigag/111597740292459988
+    telegramReplies: https://t.me/jartigag_blog/48
 ---
 
 <script
