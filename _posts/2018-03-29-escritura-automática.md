@@ -1,17 +1,18 @@
 ---
-title:  "escritura automática"
-layout: post
-date:   2018-03-30
-permalink: escritura-automática
-projects: true
-author: jartigag
-image: /assets/images/posts/ea.png
-tag:
-- proyectos
-- web
-- javascript
-mastodonReplies: https://mastodon.social/@jartigag/99774875378103754
-twitterReplies: https://twitter.com/jartigag/status/1127526298753150976
+    title:  "escritura automática"
+    layout: post
+    date:   2018-03-30
+    permalink: escritura-automática
+    projects: true
+    author: jartigag
+    image: /assets/images/posts/ea.png
+    tag:
+    - proyectos
+    - web
+    - javascript
+    mastodonReplies: https://mastodon.social/@jartigag/99774875378103754
+    twitterReplies: https://twitter.com/jartigag/status/1127526298753150976
+    telegramReplies: https://t.me/jartigag_blog/16
 ---
 
 > simplemente, escribe sin parar →  [https://jartigag.github.io/ea](https://jartigag.github.io/ea)

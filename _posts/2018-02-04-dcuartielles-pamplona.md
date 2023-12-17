@@ -1,17 +1,18 @@
 ---
-title:  "@dcuartielles en pamplona"
-layout: post
-date:   2018-02-04
-permalink: dcuartielles-pamplona
-notes: true
-author: jartigag
-image: https://upload.wikimedia.org/wikipedia/commons/6/6c/Arduino316.jpg
-tag:
-- notas
-- charla
-- arduino
-mastodonReplies: https://mastodon.social/@jartigag/99467294184328640
-twitterReplies: https://twitter.com/jartigag/status/960142653953396736
+    title:  "@dcuartielles en pamplona"
+    layout: post
+    date:   2018-02-04
+    permalink: dcuartielles-pamplona
+    notes: true
+    author: jartigag
+    image: https://upload.wikimedia.org/wikipedia/commons/6/6c/Arduino316.jpg
+    tag:
+    - notas
+    - charla
+    - arduino
+    mastodonReplies: https://mastodon.social/@jartigag/99467294184328640
+    twitterReplies: https://twitter.com/jartigag/status/960142653953396736
+    telegramReplies: https://t.me/jartigag_blog/13
 ---
 
 <p align="center">

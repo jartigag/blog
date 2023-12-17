@@ -1,17 +1,18 @@
 ---
-title:  "sal de la máquina"
-layout: post
-date:   2018-07-29
-permalink: sal-de-la-maquina
-notes: true
-author: jartigag
-image: /assets/images/posts/sal-de-la-maq.jpg
-tag:
-- notas
-- libro
-- reflexiones
-mastodonReplies: https://mastodon.social/@jartigag/100459838545578618
-twitterReplies: https://twitter.com/jartigag/status/1023681168779235334
+    title:  "sal de la máquina"
+    layout: post
+    date:   2018-07-29
+    permalink: sal-de-la-maquina
+    notes: true
+    author: jartigag
+    image: /assets/images/posts/sal-de-la-maq.jpg
+    tag:
+    - notas
+    - libro
+    - reflexiones
+    mastodonReplies: https://mastodon.social/@jartigag/100459838545578618
+    twitterReplies: https://twitter.com/jartigag/status/1023681168779235334
+    telegramReplies: https://t.me/jartigag_blog/20
 ---
 
 ![]({{site.baseurl}}/assets/images/posts/sal-de-la-maq.jpg)

@@ -1,12 +1,13 @@
 ---
-title:  "android: introducción"
-layout: post
-date:   2018-01-09
-permalink: android-1
-author: jartigag
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Android-System-Architecture.svg/675px-Android-System-Architecture.svg.png
-tag:
-- android
+    title:  "android: introducción"
+    layout: post
+    date:   2018-01-09
+    permalink: android-1
+    author: jartigag
+    image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Android-System-Architecture.svg/675px-Android-System-Architecture.svg.png
+    tag:
+    - android
+    telegramReplies: https://t.me/jartigag_blog/5
 ---
 
 ## /índice:

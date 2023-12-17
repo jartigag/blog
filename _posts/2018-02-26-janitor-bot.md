@@ -1,18 +1,19 @@
 ---
-title:  "janitor bot"
-layout: post
-date:   2018-02-26
-permalink: janitor-bot
-projects: true
-author: jartigag
-image: https://raw.githubusercontent.com/jartigag/janitor/master/logo.png
-tag:
-- proyectos
-- telegram
-- python
-- redes
-mastodonReplies: https://mastodon.social/@jartigag/99598320158826842
-twitterReplies: https://twitter.com/jartigag/status/968833165082099712
+    title:  "janitor bot"
+    layout: post
+    date:   2018-02-26
+    permalink: janitor-bot
+    projects: true
+    author: jartigag
+    image: https://raw.githubusercontent.com/jartigag/janitor/master/logo.png
+    tag:
+    - proyectos
+    - telegram
+    - python
+    - redes
+    mastodonReplies: https://mastodon.social/@jartigag/99598320158826842
+    twitterReplies: https://twitter.com/jartigag/status/968833165082099712
+    telegramReplies: https://t.me/jartigag_blog/14
 ---
 
 [Janitor](https://github.com/jartigag/janitor) es una **herramienta para LANs** escrita en Python y controlable tanto desde terminal como mediante un

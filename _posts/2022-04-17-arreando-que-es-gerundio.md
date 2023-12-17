@@ -1,17 +1,18 @@
 ---
-title:  "arreando que es gerundio"
-layout: post
-date:   2022-04-17
-permalink: arreando-que-es-gerundio
-author: jartigag
-image: https://raw.githubusercontent.com/jartigag/arreando/master/github/banner.png
-tag:
-- jekyll
-- web
-- css
-- javascript
-mastodonReplies: https://mastodon.social/@jartigag/108148931771204614
-twitterReplies: https://twitter.com/jartigag/status/1515765005219766277
+    title:  "arreando que es gerundio"
+    layout: post
+    date:   2022-04-17
+    permalink: arreando-que-es-gerundio
+    author: jartigag
+    image: https://raw.githubusercontent.com/jartigag/arreando/master/github/banner.png
+    tag:
+    - jekyll
+    - web
+    - css
+    - javascript
+    mastodonReplies: https://mastodon.social/@jartigag/108148931771204614
+    twitterReplies: https://twitter.com/jartigag/status/1515765005219766277
+    telegramReplies: https://t.me/jartigag_blog/44
 ---
 
 Estos días iba a aprovechar para hacer muchas cosas.

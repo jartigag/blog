@@ -1,16 +1,17 @@
 ---
-title:  "WiFi cautivo"
-layout: post
-date:   2018-12-20
-permalink: wifi-cautivo
-projects: true
-author: jartigag
-image: /assets/images/posts/captive.png
-tag:
-- wifi
-- ciberseguridad
-mastodonReplies: https://mastodon.social/@jartigag/101274896570193224
-twitterReplies: https://twitter.com/jartigag/status/1076772123170037760
+    title:  "WiFi cautivo"
+    layout: post
+    date:   2018-12-20
+    permalink: wifi-cautivo
+    projects: true
+    author: jartigag
+    image: /assets/images/posts/captive.png
+    tag:
+    - wifi
+    - ciberseguridad
+    mastodonReplies: https://mastodon.social/@jartigag/101274896570193224
+    twitterReplies: https://twitter.com/jartigag/status/1076772123170037760
+    telegramReplies: https://t.me/jartigag_blog/23
 ---
 
 Para el trabajo final de la asignatura de Seguridad, trasteamos un poco con redes Wi-Fi. *Y lo que descubrimos a continuación te sorprenderá.*  Al

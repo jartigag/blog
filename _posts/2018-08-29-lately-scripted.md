@@ -1,23 +1,24 @@
 ---
-title:  "lately scripted"
-layout: post
-date:   2018-08-29
-permalink: lately-scripted
-projects: true
-author: jartigag
-image: https://camo.githubusercontent.com/6c23f29a070d9dda33c9eb8a9bf56e751fca6edb/68747470733a2f2f61736369696e656d612e6f72672f612f3230303739352e706e67
-tag:
-- proyectos
-- python
-- twitter
-- bitcoin
-- criptografía
-- linkedin
-- telegram
-- web
-- clojure
-mastodonReplies: https://mastodon.social/@jartigag/100633607352719912
-twitterReplies: https://twitter.com/jartigag/status/1034787195339657217
+    title:  "lately scripted"
+    layout: post
+    date:   2018-08-29
+    permalink: lately-scripted
+    projects: true
+    author: jartigag
+    image: https://camo.githubusercontent.com/6c23f29a070d9dda33c9eb8a9bf56e751fca6edb/68747470733a2f2f61736369696e656d612e6f72672f612f3230303739352e706e67
+    tag:
+    - proyectos
+    - python
+    - twitter
+    - bitcoin
+    - criptografía
+    - linkedin
+    - telegram
+    - web
+    - clojure
+    mastodonReplies: https://mastodon.social/@jartigag/100633607352719912
+    twitterReplies: https://twitter.com/jartigag/status/1034787195339657217
+    telegramReplies: https://t.me/jartigag_blog/21
 ---
 
 Este verano me he dedicado en gran parte a escribir código. Principalmente he programado para el proyecto de Typosquatting que presentaré como mi

@@ -1,20 +1,21 @@
 ---
-title:  "cuentas de usuario desechables"
-layout: post
-date:   2018-04-27
-permalink: cuentas-usuario-desechables
-howto: true
-author: jartigag
-image: /assets/images/posts/cuentas-desechables.jpg
-tag:
-- facebook
-- instagram
-- linkedin
-- twitter
-- email
-- teléfono
-mastodonReplies: https://mastodon.social/@jartigag/99932797400688696
-twitterReplies: https://twitter.com/jartigag/status/990201462369275910
+    title:  "cuentas de usuario desechables"
+    layout: post
+    date:   2018-04-27
+    permalink: cuentas-usuario-desechables
+    howto: true
+    author: jartigag
+    image: /assets/images/posts/cuentas-desechables.jpg
+    tag:
+    - facebook
+    - instagram
+    - linkedin
+    - twitter
+    - email
+    - teléfono
+    mastodonReplies: https://mastodon.social/@jartigag/99932797400688696
+    twitterReplies: https://twitter.com/jartigag/status/990201462369275910
+    telegramReplies: https://t.me/jartigag_blog/18
 ---
 
 > “Una falsa identidad es más eficaz que una máscara de Guy Fawkes” - "V de Vendetta"

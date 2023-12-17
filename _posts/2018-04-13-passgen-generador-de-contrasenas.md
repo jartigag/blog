@@ -1,16 +1,17 @@
 ---
-title:  "passgen: generador de contraseñas"
-layout: post
-date:   2018-04-13
-permalink: passgen-generador-de-contrasenas
-projects: true
-author: jartigag
-image: /assets/images/posts/sc-passgen.png
-tag:
-- proyectos
-- web
-- javascript
-mastodonReplies: https://mastodon.social/@jartigag/99854172124441523
+    title:  "passgen: generador de contraseñas"
+    layout: post
+    date:   2018-04-13
+    permalink: passgen-generador-de-contrasenas
+    projects: true
+    author: jartigag
+    image: /assets/images/posts/sc-passgen.png
+    tag:
+    - proyectos
+    - web
+    - javascript
+    mastodonReplies: https://mastodon.social/@jartigag/99854172124441523
+    telegramReplies: https://t.me/jartigag_blog/17
 ---
 
 Generador de contraseñas desarrollado para el proyecto dirigido de la asignatura "Servicios Web: Cliente".

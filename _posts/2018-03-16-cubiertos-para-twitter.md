@@ -1,16 +1,17 @@
 ---
-title:  "cubiertos para twitter"
-layout: post
-date:   2018-03-16
-permalink: cubiertos-para-twitter
-projects: true
-author: jartigag
-image: https://raw.githubusercontent.com/jartigag/cubiertos-para-twitter/master/logo.png
-tag:
-- proyectos
-- python
-- twitter
-twitterReplies: https://twitter.com/jartigag/status/974725622143569921
+    title:  "cubiertos para twitter"
+    layout: post
+    date:   2018-03-16
+    permalink: cubiertos-para-twitter
+    projects: true
+    author: jartigag
+    image: https://raw.githubusercontent.com/jartigag/cubiertos-para-twitter/master/logo.png
+    tag:
+    - proyectos
+    - python
+    - twitter
+    twitterReplies: https://twitter.com/jartigag/status/974725622143569921
+    telegramReplies: https://t.me/jartigag_blog/15
 ---
 
 He diseñado mi propia [*cubertería*](https://github.com/jartigag/cubiertos-para-twitter). Es un kit de 3 herramientas para **hacer que Twitter sea

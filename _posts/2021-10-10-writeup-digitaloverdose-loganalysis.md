@@ -1,18 +1,19 @@
 ---
-title:  "#writeup: DigitalOverdose - Log Analysis"
-layout: post
-date:   2021-10-10
-ctfs: true
-permalink: /writeup-dover21
-redirect_to: https://scavengersecurity.com/posts/digitaloverdose-loganalysis/
-author: jartigag
-tag:
-- ctf
-- análisis
-- ciberseguridad
-- windows
-mastodonReplies: https://mastodon.social/@jartigag/107079704581201058
-twitterReplies: https://twitter.com/jartigag/status/1447522555275927552
+   title:  "#writeup: DigitalOverdose - Log Analysis"
+   layout: post
+   date:   2021-10-10
+   ctfs: true
+   permalink: /writeup-dover21
+   redirect_to: https://scavengersecurity.com/posts/digitaloverdose-loganalysis/
+   author: jartigag
+   tag:
+   - ctf
+   - análisis
+   - ciberseguridad
+   - windows
+   mastodonReplies: https://mastodon.social/@jartigag/107079704581201058
+   twitterReplies: https://twitter.com/jartigag/status/1447522555275927552
+   telegramReplies: https://t.me/jartigag_blog/42
 ---
 
 [https://scavengersecurity.com/posts/digitaloverdose-loganalysis/](https://scavengersecurity.com/posts/digitaloverdose-loganalysis/)

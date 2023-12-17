@@ -1,17 +1,18 @@
 ---
-title:  "machine learning engineering"
-layout: post
-date:   2020-11-08
-permalink: aburkov-machine_learning_engineering
-notes: true
-author: jartigag
-image: /assets/images/posts/cover-aburkov-machine_learning_engineering.png
-tag:
-- notas
-- libro
-- machine learning
-mastodonReplies: https://mastodon.social/@jartigag/105174732236617291
-twitterReplies: https://twitter.com/jartigag/status/1325416277477892096
+    title:  "machine learning engineering"
+    layout: post
+    date:   2020-11-08
+    permalink: aburkov-machine_learning_engineering
+    notes: true
+    author: jartigag
+    image: /assets/images/posts/cover-aburkov-machine_learning_engineering.png
+    tag:
+    - notas
+    - libro
+    - machine learning
+    mastodonReplies: https://mastodon.social/@jartigag/105174732236617291
+    twitterReplies: https://twitter.com/jartigag/status/1325416277477892096
+    telegramReplies: https://t.me/jartigag_blog/35
 ---
 
 Con esta entrada empiezo una nueva categoría de posts que voy a llamar "notas".

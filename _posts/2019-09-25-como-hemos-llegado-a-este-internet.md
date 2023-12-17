@@ -1,20 +1,21 @@
 ---
-title:  "cómo hemos llegado a este internet"
-layout: post
-date:   2019-09-25
-permalink: como-hemos-llegado-a-este-internet
-notes: true
-author: jartigag
-image: /assets/images/posts/inter-nets.png
-tag:
-- notas
-- libro
-- internet
-- unix
-- redes
-- linux
-mastodonReplies: https://mastodon.social/@jartigag/102854461876365102
-twitterReplies: https://twitter.com/jartigag/status/1176920595822456834
+    title:  "cómo hemos llegado a este internet"
+    layout: post
+    date:   2019-09-25
+    permalink: como-hemos-llegado-a-este-internet
+    notes: true
+    author: jartigag
+    image: /assets/images/posts/inter-nets.png
+    tag:
+    - notas
+    - libro
+    - internet
+    - unix
+    - redes
+    - linux
+    mastodonReplies: https://mastodon.social/@jartigag/102854461876365102
+    twitterReplies: https://twitter.com/jartigag/status/1176920595822456834
+    telegramReplies: https://t.me/jartigag_blog/28
 ---
 
 <script type="text/javascript" src="https://code.jquery.com/jquery-3.4.1.min.js"></script>

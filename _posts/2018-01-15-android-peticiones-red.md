@@ -1,11 +1,12 @@
 ---
-title:  "android: peticiones de red"
-layout: post
-date:   2018-01-15
-permalink: android-3
-author: jartigag
-tag:
-- android
+    title:  "android: peticiones de red"
+    layout: post
+    date:   2018-01-15
+    permalink: android-3
+    author: jartigag
+    tag:
+    - android
+    telegramReplies: https://t.me/jartigag_blog/9
 ---
 
 ## /índice:

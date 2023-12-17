@@ -1,20 +1,21 @@
 ---
-title:  "monitorizando sistemas: 1. carga"
-layout: post
-date:   2020-04-14
-permalink: monitorizando-sistemas-1-carga
-author: jartigag
-image: /assets/images/posts/sar.png
-tag:
-- monitorización
-- herramientas
-- unix
-- linux
-- email
-- sysadmin
-- sistemas
-mastodonReplies: https://mastodon.social/@jartigag/104002381896777739
-twitterReplies: https://twitter.com/jartigag/status/1250389045458370562
+    title:  "monitorizando sistemas: 1. carga"
+    layout: post
+    date:   2020-04-14
+    permalink: monitorizando-sistemas-1-carga
+    author: jartigag
+    image: /assets/images/posts/sar.png
+    tag:
+    - monitorización
+    - herramientas
+    - unix
+    - linux
+    - email
+    - sysadmin
+    - sistemas
+    mastodonReplies: https://mastodon.social/@jartigag/104002381896777739
+    twitterReplies: https://twitter.com/jartigag/status/1250389045458370562
+    telegramReplies: https://t.me/jartigag_blog/31
 ---
 
 Hace tiempo que pensaba escribir sobre lo que estoy aprendiendo de medir/monitorizar un sistema. Mi idea era relacionarlo con un montón de cosas,

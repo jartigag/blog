@@ -1,16 +1,17 @@
 ---
-title:  "flutter: mi setup"
-layout: post
-date:   2019-01-20
-permalink: flutter-mi-setup
-howto: true
-author: jartigag
-image: /assets/images/posts/flutter-holamundo.png
-tag:
-- flutter
-- android
-mastodonReplies: https://mastodon.social/@jartigag/101448950300742873
-twitterReplies: https://twitter.com/jartigag/status/1091062294866468866
+    title:  "flutter: mi setup"
+    layout: post
+    date:   2019-01-20
+    permalink: flutter-mi-setup
+    howto: true
+    author: jartigag
+    image: /assets/images/posts/flutter-holamundo.png
+    tag:
+    - flutter
+    - android
+    mastodonReplies: https://mastodon.social/@jartigag/101448950300742873
+    twitterReplies: https://twitter.com/jartigag/status/1091062294866468866
+    telegramReplies: https://t.me/jartigag_blog/24
 ---
 
 ![]({{site.baseurl}}/assets/images/posts/flutter-holamundo.png)

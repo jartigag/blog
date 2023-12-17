@@ -1,17 +1,18 @@
 ---
-title:  "git no es github"
-layout: post
-date:   2019-07-13
-permalinK: git-no-es-github
-author: jartigag
-image: /assets/images/posts/git.png
-tag:
-- git
-- software libre
-- herramientas
-- reflexiones
-mastodonReplies: https://mastodon.social/@jartigag/102435028504431424
-twitterReplies: https://twitter.com/jartigag/status/1150076581605531648
+    title:  "git no es github"
+    layout: post
+    date:   2019-07-13
+    permalinK: git-no-es-github
+    author: jartigag
+    image: /assets/images/posts/git.png
+    tag:
+    - git
+    - software libre
+    - herramientas
+    - reflexiones
+    mastodonReplies: https://mastodon.social/@jartigag/102435028504431424
+    twitterReplies: https://twitter.com/jartigag/status/1150076581605531648
+    telegramReplies: https://t.me/jartigag_blog/27
 ---
 
 Hoy solo venía a dejar por aquí algunas reflexiones, nombres e hitos sobre [Git](https://git-scm.com/book/en/v2), el famoso software de control de

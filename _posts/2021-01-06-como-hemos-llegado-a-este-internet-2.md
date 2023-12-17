@@ -1,20 +1,21 @@
 ---
-title:  "cómo hemos llegado a este internet 2.0"
-layout: post
-date:   2021-01-06
-permalink: como-hemos-llegado-a-este-internet-2
-notes: true
-author: jartigag
-image: https://upload.wikimedia.org/wikipedia/commons/4/41/NSFNET-traffic-visualization-1991.jpg
-tag:
-- notas
-- internet
-- redes
-- unix
-- iphone
-- android
-mastodonReplies: https://mastodon.social/@jartigag/105509401297643697
-twitterReplies: https://twitter.com/jartigag/status/1346835854208212993
+    title:  "cómo hemos llegado a este internet 2.0"
+    layout: post
+    date:   2021-01-06
+    permalink: como-hemos-llegado-a-este-internet-2
+    notes: true
+    author: jartigag
+    image: https://upload.wikimedia.org/wikipedia/commons/4/41/NSFNET-traffic-visualization-1991.jpg
+    tag:
+    - notas
+    - internet
+    - redes
+    - unix
+    - iphone
+    - android
+    mastodonReplies: https://mastodon.social/@jartigag/105509401297643697
+    twitterReplies: https://twitter.com/jartigag/status/1346835854208212993
+    telegramReplies: https://t.me/jartigag_blog/37
 ---
 
 <script type="text/javascript" src="https://code.jquery.com/jquery-3.4.1.min.js"></script>

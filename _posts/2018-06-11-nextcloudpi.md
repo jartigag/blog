@@ -1,20 +1,21 @@
 ---
-title:  "cómo levanté nextcloud en mi raspberrypi"
-layout: post
-date:   2018-06-11
-permalink: nextcloudpi
-howto: true
-author: jartigag
-image: /assets/images/posts/nextcloudpi.png
-tag:
-- raspberrypi
-- nextcloud
-- dns
-- guías
-- software libre
-- sysadmin
-mastodonReplies: https://mastodon.social/@jartigag/100187688495099957
-twitterReplies: https://twitter.com/jartigag/status/1006529050003853319
+    title:  "cómo levanté nextcloud en mi raspberrypi"
+    layout: post
+    date:   2018-06-11
+    permalink: nextcloudpi
+    howto: true
+    author: jartigag
+    image: /assets/images/posts/nextcloudpi.png
+    tag:
+    - raspberrypi
+    - nextcloud
+    - dns
+    - guías
+    - software libre
+    - sysadmin
+    mastodonReplies: https://mastodon.social/@jartigag/100187688495099957
+    twitterReplies: https://twitter.com/jartigag/status/1006529050003853319
+    telegramReplies: https://t.me/jartigag_blog/19
 ---
 
 ![]({{site.baseurl}}/assets/images/posts/nextcloudpi.png)  

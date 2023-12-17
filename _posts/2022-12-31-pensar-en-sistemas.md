@@ -1,17 +1,18 @@
 ---
-title:  "pensar en sistemas"
-layout: post
-date:   2022-12-31
-permalink: pensar-en-sistemas
-author: jartigag
-image: /assets/images/posts/slinky.png
-tag:
-- notas
-- libro
-- análisis
-- sistemas
-mastodonReplies: https://mastodon.social/@jartigag/110158705100299773
-twitterReplies: https://twitter.com/jartigag/status/1644620053785063429
+    title:  "pensar en sistemas"
+    layout: post
+    date:   2022-12-31
+    permalink: pensar-en-sistemas
+    author: jartigag
+    image: /assets/images/posts/slinky.png
+    tag:
+    - notas
+    - libro
+    - análisis
+    - sistemas
+    mastodonReplies: https://mastodon.social/@jartigag/110158705100299773
+    twitterReplies: https://twitter.com/jartigag/status/1644620053785063429
+    telegramReplies: https://t.me/jartigag_blog/45
 ---
 
 Estoy acabando[^1] el libro "[Pensar en sistemas](https://www.chelseagreen.com/product/thinking-in-systems/)" de Donella Meadows.

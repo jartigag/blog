@@ -1,19 +1,20 @@
 ---
-title:  "lineageOS en un moto G de 2015 (osprey)"
-layout: post
-date:   2018-10-15
-permalink: lineageos-en-osprey
-howto: true
-author: jartigag
-image: /assets/images/posts/lineageos.png
-tag:
-- android
-- lineageos
-- software libre
-- google
-- guías
-mastodonReplies: https://mastodon.social/@jartigag/100901154081129525
-twitterReplies: https://twitter.com/jartigag/status/1051812573807595527
+    title:  "lineageOS en un moto G de 2015 (osprey)"
+    layout: post
+    date:   2018-10-15
+    permalink: lineageos-en-osprey
+    howto: true
+    author: jartigag
+    image: /assets/images/posts/lineageos.png
+    tag:
+    - android
+    - lineageos
+    - software libre
+    - google
+    - guías
+    mastodonReplies: https://mastodon.social/@jartigag/100901154081129525
+    twitterReplies: https://twitter.com/jartigag/status/1051812573807595527
+    telegramReplies: https://t.me/jartigag_blog/22
 ---
 
 Hace ya un par de semanas instalé un nuevo *sistema operativo Android* en mi antiguo móvil, un Moto G de 2015. Se trata de **LineageOS**, la

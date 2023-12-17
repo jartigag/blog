@@ -1,18 +1,19 @@
 ---
-title:  "#writeup: CSAW - Gotta Decrypt Them All [crypto]"
-layout: post
-date:   2021-09-30
-ctfs: true
-permalink: /writeup-csaw21
-redirect_to: https://scavengersecurity.com/posts/csaw-gottadecryptthemall/
-author: jartigag
-image: https://scavengersecurity.com/posts/csaw-gottadecryptthemall/upload_c01fd065e4c94aa14993e6841cf70b7e.png
-tag:
-- ctf
-- criptografía
-- ciberseguridad
-mastodonReplies: https://mastodon.social/@jartigag/107027934320891523
-twitterReplies: https://twitter.com/jartigag/status/1443579786069098497
+    title:  "#writeup: CSAW - Gotta Decrypt Them All [crypto]"
+    layout: post
+    date:   2021-09-30
+    ctfs: true
+    permalink: /writeup-csaw21
+    redirect_to: https://scavengersecurity.com/posts/csaw-gottadecryptthemall/
+    author: jartigag
+    image: https://scavengersecurity.com/posts/csaw-gottadecryptthemall/upload_c01fd065e4c94aa14993e6841cf70b7e.png
+    tag:
+    - ctf
+    - criptografía
+    - ciberseguridad
+    mastodonReplies: https://mastodon.social/@jartigag/107027934320891523
+    twitterReplies: https://twitter.com/jartigag/status/1443579786069098497
+    telegramReplies: https://t.me/jartigag_blog/41
 ---
 
 [https://scavengersecurity.com/posts/csaw-gottadecryptthemall/](https://scavengersecurity.com/posts/csaw-gottadecryptthemall/)

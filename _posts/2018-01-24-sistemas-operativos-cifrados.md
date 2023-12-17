@@ -1,18 +1,19 @@
 ---
-title:  "SOs cifrados: debian 9 y windows 10"
-layout: post
-date:   2018-01-24
-permalink: sistemas-operativos-cifrados
-howto: true
-author: jartigag
-image: /assets/images/posts/SOs-cifrados.jpg
-tag:
-- linux
-- debian
-- windows
-- guías
-mastodonReplies: https://mastodon.social/@jartigag/99410479217380972
-twitterReplies: https://twitter.com/jartigag/status/957251500744626182
+    title:  "SOs cifrados: debian 9 y windows 10"
+    layout: post
+    date:   2018-01-24
+    permalink: sistemas-operativos-cifrados
+    howto: true
+    author: jartigag
+    image: /assets/images/posts/SOs-cifrados.jpg
+    tag:
+    - linux
+    - debian
+    - windows
+    - guías
+    mastodonReplies: https://mastodon.social/@jartigag/99410479217380972
+    twitterReplies: https://twitter.com/jartigag/status/957251500744626182
+    telegramReplies: https://t.me/jartigag_blog/10
 ---
 
 ## /índice:

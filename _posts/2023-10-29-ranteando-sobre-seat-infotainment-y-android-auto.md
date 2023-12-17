@@ -1,16 +1,17 @@
 ---
-title:  "ranteando sobre seat infotainment y android auto"
-layout: post
-date:   2023-10-29
-permalink: ranteando-sobre-seat-infotainment-y-android-auto
-author: jartigag
-image: /assets/images/posts/android-auto.png
-tag:
-- android
-- seat
-- coche
-mastodonReplies: https://mastodon.social/@jartigag/111318786486693868
-twitterReplies: https://twitter.com/jartigag/status/1718668996877181098
+    title:  "ranteando sobre seat infotainment y android auto"
+    layout: post
+    date:   2023-10-29
+    permalink: ranteando-sobre-seat-infotainment-y-android-auto
+    author: jartigag
+    image: /assets/images/posts/android-auto.png
+    tag:
+    - android
+    - seat
+    - coche
+    mastodonReplies: https://mastodon.social/@jartigag/111318786486693868
+    twitterReplies: https://twitter.com/jartigag/status/1718668996877181098
+    telegramReplies: https://t.me/jartigag_blog/47
 ---
 
 <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>

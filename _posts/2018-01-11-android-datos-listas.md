@@ -1,11 +1,12 @@
 ---
-title:  "android: almacenar datos, representar listas"
-layout: post
-date:   2018-01-11
-permalink: android-2
-author: jartigag
-tag:
-- android
+    title:  "android: almacenar datos, representar listas"
+    layout: post
+    date:   2018-01-11
+    permalink: android-2
+    author: jartigag
+    tag:
+    - android
+    telegramReplies: https://t.me/jartigag_blog/7
 ---
 
 ## /índice:
