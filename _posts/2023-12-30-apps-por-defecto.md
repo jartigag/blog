@@ -5,7 +5,7 @@
     permalink: apps-por-defecto-2023
     author: jartigag
     image: /assets/images/posts/apps-2023.png
-    published: false
+    hidden: true
     tag:
     - android
     - linux
