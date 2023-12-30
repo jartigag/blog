@@ -11,7 +11,7 @@
     - debian
     - google
     - herramientas
-    mastodonReplies: https://mastodon.social/@jartigag/xxxxxxxxxxxxxxxxxx
+    mastodonReplies: https://mastodon.social/@jartigag/111668359890387271
     telegramReplies: https://t.me/jartigag_blog/xx
 ---
 
