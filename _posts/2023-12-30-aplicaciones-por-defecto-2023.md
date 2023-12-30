@@ -12,7 +12,7 @@
     - google
     - herramientas
     mastodonReplies: https://mastodon.social/@jartigag/111668359890387271
-    telegramReplies: https://t.me/jartigag_blog/xx
+    telegramReplies: https://t.me/jartigag_blog/51
 ---
 
 Siguiendo la tendencia que he visto circular por varios blogs[^1] (creo que empezó con el podcast [Hemispheric View - Duel of the Defaults!](https://listen.hemisphericviews.com/097)), comparto mi lista de aplicaciones predeterminadas para diversas tareas en 2023:
