@@ -57,7 +57,10 @@ Pero bueno, aquí tengo todo terminado por fin:
 
 <div class="video-wrap">
   <div class="video">
-    <iframe name="peertubevideo" width="600" height="340" src="https://fediverse.tv/videos/embed/646e9406-972a-427d-869d-d88b738097bf?warningTitle=0" frameborder="0" gesture="media" allowfullscreen></iframe>
+    <div class="close-wrap-button" style="position: relative; margin-top: 20px; top: 15px; left: 0;">
+      <button>X</button>
+    </div>
+    <iframe class="video-iframe" name="peertubevideo" width="600" height="340" src="https://fediverse.tv/videos/embed/646e9406-972a-427d-869d-d88b738097bf?warningTitle=0" frameborder="0" gesture="media" allowfullscreen></iframe>
   </div>
 </div>
 

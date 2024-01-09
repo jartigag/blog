@@ -5,6 +5,13 @@ var $videoWrap = $('.video-wrap');
 var $video = $('.video');
 var $hideVideo = $('.hide-video');
 var videoHeight = $video.outerHeight();
+var $videoIframe = $('.video-iframe');
+var $closeWrap = $('.close-wrap-button');
+
+$closeWrap.on('click', function() {
+    $video.removeClass('stuck');
+    $videoIframe[0].src = $videoIframe[0].src; /* this forces the pause */
+});
 
 $window.on('scroll',  function() {
   var windowScrollTop = $window.scrollTop();
