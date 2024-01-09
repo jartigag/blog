@@ -29,7 +29,7 @@ title: Tags
     <ul>
         {% assign pages_list = tag[1] %}
         {% for post in pages_list reversed %}
-            {% if post.title != null %}
+            {% if post.title != null and post.hidden != true %}
                 {% if group == null or group == post.group %}
                     <li>
                         <a class="black-link post-link-layout" href="{{ post.url | relative_url }}">
