@@ -7,3 +7,4 @@ _posts/wip
 .sass-cache/
 Gemfile.lock
 _site/
+vendor/

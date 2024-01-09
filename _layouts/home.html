@@ -28,6 +28,7 @@ layout: default
       <ul>
       {% endif %}
 
+      {% if post.hidden != true %}
       <li>
           <a class="black-link post-link-layout" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
@@ -37,6 +38,7 @@ layout: default
             {{ post.date | date: date_format }}
           </span>
       </li>
+      {% endif %}
 
       {% if forloop.last %}
       </ul>
