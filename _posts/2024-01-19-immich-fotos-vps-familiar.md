@@ -61,7 +61,7 @@ Ya se ve en el vídeo, yo solo copié y pegué:
 <div class="static-video-wrap">
   <div class="static-video">
     <div style="text-align:center">
-      <iframe src="https://player.twitch.tv/?video=2006808220&parent=jartigag.blog&autoplay=false" frameborder="0" allowfullscreen gesture="media" height="340" width="600"></iframe>
+      <iframe src="https://player.twitch.tv/?video=2020708595&parent=jartigag.blog&autoplay=false" frameborder="0" allowfullscreen gesture="media" height="340" width="600"></iframe>
     </div><br/>
   </div>
 </div>
@@ -98,4 +98,3 @@ El proceso de encontrar por qué no funcionaba fue importante, pero lo fue más 
     </div><br/>
   </div>
 </div>
-
