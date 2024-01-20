@@ -74,7 +74,7 @@ Mencionar aquí [Nginx Proxy Manager](https://nginxproxymanager.com/) (¡gracias
 
 ### 2. Docker Compose
 
-Hablando de Docker, quiero recomendar "[Docker para DevOps: de noob a experto](https://dockerparadevops.com)" (¡gracias Iván!),
+Hablando de Docker, quiero recomendar "[Docker para DevOps: de noob a experto](http://dockerparadevops.com)" (¡gracias Iván!),
 un libro completísimo que da las bases sobre esta tecnología para después profundizar en sus entrañas, en cómo securizarla y en definitiva en cómo exprimirla al máximo.
 En esta sesión estuvimos echándole un ojo:
 
