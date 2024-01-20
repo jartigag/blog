@@ -23,6 +23,10 @@
     telegramReplies: https://t.me/jartigag_blog/52
 ---
 
+<script
+  type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<link
+  rel="stylesheet" media="all" href="{{site.baseurl}}/assets/css/scroll-video.css">
 Todo empezó con [este toot](https://mastodon.social/@jartigag/111681231334222433).
 Bueno, no.
 Empezó antes, con mi padre diciendo "está bien lo de compartir un álbum con nuestras fotos, pero no me hace gracia que sea en Google" (ay, criaturica.. como si Google no te tuviera fichadísimo ya).
@@ -98,3 +102,7 @@ El proceso de encontrar por qué no funcionaba fue importante, pero lo fue más 
     </div><br/>
   </div>
 </div>
+
+---
+<script
+  type="text/javascript" src="{{site.baseurl}}/assets/js/scroll-video.js"></script>
