@@ -19,8 +19,8 @@
     - herramientas
     - google
     - flutter
-    mastodonReplies: https://mastodon.social/@jartigag/xxxxxxxxxxxxxxxxxx
-    telegramReplies: https://t.me/jartigag_blog/xx
+    mastodonReplies: https://mastodon.social/@jartigag/111784419092792864
+    telegramReplies: https://t.me/jartigag_blog/52
 ---
 
 Todo empezó con [este toot](https://mastodon.social/@jartigag/111681231334222433).
