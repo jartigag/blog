@@ -11,6 +11,7 @@
     - proxy
     - docker
     - nginx
+    - certbot
     - dns
     - web
     - sistemas

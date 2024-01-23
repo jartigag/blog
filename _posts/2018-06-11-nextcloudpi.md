@@ -13,6 +13,7 @@
     - guías
     - software libre
     - sysadmin
+    - selfhosting
     mastodonReplies: https://mastodon.social/@jartigag/100187688495099957
     twitterReplies: https://twitter.com/jartigag/status/1006529050003853319
     telegramReplies: https://t.me/jartigag_blog/19
