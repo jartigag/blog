@@ -9,7 +9,7 @@
     - radio
     - ia
     - internet
-    mastodonReplies: https://mastodon.social/@jartigag/nnnnnnnnnnnnnnnnnn
+    mastodonReplies: https://mastodon.social/@jartigag/112392455329395899
     telegramReplies: https://t.me/jartigag_blog/xx
 ---
 
