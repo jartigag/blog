@@ -10,7 +10,7 @@
     - ia
     - internet
     mastodonReplies: https://mastodon.social/@jartigag/112392455329395899
-    telegramReplies: https://t.me/jartigag_blog/xx
+    telegramReplies: https://t.me/jartigag_blog/56
 ---
 
 Llevo apenas un mes haciendo un poco de radio en Radio Mai[^1] (¡tu radio de la margen izquierda, en la 102.8 FM!), invitado por [Notxor](https://notxor.nueva-actitud.org) y la [asociación PICA](https://asociacionpica.org).
