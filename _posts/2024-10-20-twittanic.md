@@ -5,7 +5,7 @@
     permalink: twittanic
     redirect_to: https://escritura.social/jartigag/twittanic-una-nueva-oportunidad-para-la-web-social
     author: jartigag
-    image: /assets/images/posts/principito.jpg
+    image: /assets/images/posts/PXL_20241020_175824731.jpg
     tag:
     - reflexiones
     mastodonReplies: https://mastodon.social/@jartigag/xxxxxxxxxxxxxxxxxx
