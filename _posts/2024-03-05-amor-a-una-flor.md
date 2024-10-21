@@ -9,7 +9,7 @@
     tag:
     - reflexiones
     mastodonReplies: https://mastodon.social/@jartigag/xxxxxxxxxxxxxxxxxx
-    telegramReplies: https://t.me/jartigag_blog/xx
+    telegramReplies: https://t.me/jartigag_blog/54
 ---
 
 [https://escritura.social/jartigag/amor-a-una-flor](https://escritura.social/jartigag/amor-a-una-flor)

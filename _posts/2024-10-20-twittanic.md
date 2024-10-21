@@ -8,8 +8,10 @@
     image: /assets/images/posts/PXL_20241020_175824731.jpg
     tag:
     - reflexiones
+    - twitter
+    - libro
     mastodonReplies: https://mastodon.social/@jartigag/xxxxxxxxxxxxxxxxxx
-    telegramReplies: https://t.me/jartigag_blog/xx
+    telegramReplies: https://t.me/jartigag_blog/58
 ---
 
 [https://escritura.social/jartigag/twittanic-una-nueva-oportunidad-para-la-web-social](https://escritura.social/jartigag/twittanic-una-nueva-oportunidad-para-la-web-social)
