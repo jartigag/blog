@@ -11,8 +11,8 @@
     - linux
     - unix
     - libro
-    mastodonReplies: https://mastodon.social/@jartigag/xxxxxxxxxxxxxxxxxx
-    telegramReplies: https://t.me/jartigag_blog/xx
+    mastodonReplies: https://mastodon.social/deck/@jartigag/113452259821048909
+    telegramReplies: https://t.me/jartigag_blog/59
 ---
 
 [https://escritura.social/jartigag/the-unique-philosophy-behind-unix](https://escritura.social/jartigag/the-unique-philosophy-behind-unix)
