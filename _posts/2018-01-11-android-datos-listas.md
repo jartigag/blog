@@ -35,7 +35,7 @@ Almacenamiento de variables en un entorno privado a la app. Es un fichero XML no
 clave-valor de tipos sencillos.
 
 Almacenar datos:
-```
+```java
 SharedPreferences settings = getSharedPreferences("Config", 0);
 SharedPreferences.Editor editor = settings.edit();
 editor.putBoolean("alarm_active", alarmActive);
@@ -44,7 +44,7 @@ editor.commit();
 ```
 
 Recuperar datos:
-```
+```java
 SharedPreferences settings = getSharedPreferences("Config", 0);
 boolean alarmActive = settings.getBoolean("alarm_active", false);
 String username = settings.getString("username", "");
@@ -59,7 +59,7 @@ En Android usamos SQLite, que es una RDBMS: *Relational-DBMS (DataBase Managemen
 
 [ORM](https://es.wikipedia.org/wiki/Mapeo_objeto-relacional) (*Object-Relational Mapper*): Crea relaciones entre bases de datos y objetos Java.
 Permite un lenguaje más evidente ([DAO](https://es.wikipedia.org/wiki/Objeto_de_acceso_a_datos) - *Data Access Object*).  Ejemplo con GreenDao:
-```
+```java
 // para acceder a la base de datos:
 DaoMaster.DevOpenHelper helper = new DaoMaster.DevOpenHelper(this, "db", null);
 SQLiteDatabase db = helper.getWritableDatabase();
@@ -89,7 +89,7 @@ En el build.gradle de la app:
 Creamos al menos un modelo:
 [http://greenrobot.org/greendao/documentation/modelling-entities](http://greenrobot.org/greendao/documentation/modelling-entities)  Primero definimos
 la versión del *schema*. En el build.gradle de la app, añadimos:
-```
+```java
 greendao {
   schemaVersion 2
 }
@@ -110,7 +110,7 @@ Para crear listados necesitamos:
 ## ListView
 
 El elemento ListView es un elemento de layout más:
-```
+```java
 <ListView
     android:id="@+id/example_list"
     android:layout_width="match_parent"
@@ -118,7 +118,7 @@ El elemento ListView es un elemento de layout más:
 </ListView>
 ```
 pero para determinar su contenido se debe asignar un Adapter:
-```
+```java
 ListView lvList = (ListView) findViewById(R.id.example_list);
 lvList.setAdapter(new MyAdapter(objectsList));
 ```
@@ -126,7 +126,7 @@ lvList.setAdapter(new MyAdapter(objectsList));
 ## Adapter
 
 Podemos crear nuestro Adapter usando `extends BaseAdapter`. Requiere implementar 4 métodos:
-```
+```java
   public int getCount() {···}
   public Object getItem(int position) {···}
   public long getItemId(int position) {···}
@@ -151,7 +151,7 @@ Podemos crear nuestro Adapter usando `extends BaseAdapter`. Requiere implementar
 Es necesario crear un **click listener** particular: ``AdapterView.OnItemClickListener``. Funciona parecido al click listener de un botón, pero con
 una posición.  
 Ejemplo:
-```
+```java
 public class MyListItemClickListener implements AdapterView.OnItemClickListener {
 
     private List<MyObject> myList;
