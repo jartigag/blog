@@ -75,16 +75,16 @@ Los elementos que componen un layout son **Widgets**. Por ejemplo:
 Para identificarlos se usa el parámetro `android:id` en el template. Con `@+id/nombre` se crea, con `@id/nombre` se hace referencia a él.
 
 Podemos trabajar con Widgets desde el Activity a través del id. Por ejemplo:
-```
+```java
 EditText editText = (EditText)findViewById(R.id.edit_text);
 ```
 
 De la clase **R.java** se pueden recuperar widgets, pero también strings:
-```
+```java
 String text = getResources().getString(R.string.hello);
 ```
 o asignar imágenes:
-```
+```java
 ImageView imageView = (ImageView)findViewById(R.id.image);
 imageView.setImageResource(R.drawable.background);
 ```
@@ -97,13 +97,13 @@ Los textos se almacenan en ficheros XML, en `res > values`. Cada traducción va 
 ## Events
 
 La interacción se basa en eventos. "Escucharemos" esos eventos para realizar acciones mediante **listeners**. Ejemplo:
-```
+```java
 Button button = (Button)findViewById(R.id.my_button);
 button.setOnClickListener(new OpenSettingsClickListener());
 ```
 
 Creamos un listener que implemente el interfaz adecuado en una clase propia y se la asociamos al Widget.
-```
+```java
 public class OpenSettingsClickListener implements View.OnClickListener {
   @Override
   public void onClick(View view) {
@@ -115,18 +115,18 @@ public class OpenSettingsClickListener implements View.OnClickListener {
 ## Intent
 
 Permite cambiar de Activity. Puede imaginarse una pila de Activities, de forma que la nueva se abre sobre la anterior.
-```
+```java
 Intent intent = new Intent(this, NextActivity.class);
 startActivity(intent);
 ```
 Si cerramos la nueva actividad usando `finish()`, volveremos a la inicial.
 
 Podemos pasar parámetros (extras):
-```
+```java
 intent.putExtra("key", value);
 ```
 Y recuperarlos en el destino:
-```
+```java
 Bundle bundle = getIntent().getExtras();
 String value = bundle.getString("key");
 ```
