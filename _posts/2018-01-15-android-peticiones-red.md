@@ -25,7 +25,7 @@ build.gradle de la app.
 
 Ejemplo de petición GET:
 
-```
+```java
 import com.loopj.android.http.AsyncHttpClient;
 
 AsyncHttpClient client = new AsyncHttpClient();
@@ -39,7 +39,7 @@ client.get(
 
 Y tratamiento de su respuesta:
 
-```
+```java
 public class ResourceResponseHandler extends AsyncHttpResponseHandler {
 
 	private Context context = null;
@@ -69,7 +69,7 @@ instala añadiendo `compile 'com.google.code.gson:gson:2.8.2'` al build.gradle d
 
 Ejemplo (como el anterior, pero con petición POST):
 
-```
+```java
 Gson gson = new Gson();
 
 //Response:
