@@ -36,7 +36,7 @@ Hace ya un par de semanas instalé un nuevo *sistema operativo Android* en mi an
 
 ## Motivación
 
-Android me ha gustado desde siempre. Pero claro... Google :worried:  
+Android me ha gustado desde siempre. Pero claro... Google 😟  
 Hay que aclarar que el proyecto **Android nació fuera de la gran G**, aunque lo adquirieron en 2005 porque tenían que hacer frente a la imparable
 expansión de iOS y vieron el gran potencial que tenía ofrecer un buen sistema operativo para smartphones. El proyecto
 [AOSP](https://source.android.com/) sigue vivo, pero siempre bajo la atenta supervisión de Google. Es de código abierto, sí, pero más bien del tipo
@@ -46,7 +46,7 @@ Nunca me ha cabido duda de que Google hará lo que quiera sobre los dispositivos
 movements, like it or not](https://www.apnews.com/828aefab64d4411bac257a07c1af0ecb)" fue para mí el caso más claro, aunque la **vigilancia y control
 de los smartphones** ha existido [desde
 siempre](http://www.spiegel.de/international/world/how-the-nsa-spies-on-smartphones-including-the-blackberry-a-921161.html) y seguirá existiendo (o
-al menos lo seguirán intentando :wink:).
+al menos lo seguirán intentando 😉).
 
 ¿Pero es posible tener un **Android funcional sin Google Play Services**? Esta app en realidad es mucho más: es un servicio que corre en segundo
 plano y que actúa [como interfaz](https://developers.google.com/android/guides/overview) con funcionalidades de Google tan esenciales como Play Store
@@ -64,25 +64,25 @@ se ha renombrado como **[osprey](https://wiki.lineageos.org/devices/osprey/)**).
 guía](https://wiki.lineageos.org/devices/osprey/install).
 
 1-
-```
+```sh
 $ sudo apt install adb fastboot
 ```
 
 2- Habilitar la Depuración USB, Permitir desbloqueo OEM
 
 3-
-```
+```sh
 $ adb reboot bootloader
 ```
 
 4-
-```
+```sh
 $ fastboot devices
 ZY2227B25M fastboot
 ```
 
 5-
-```
+```sh
 $ fastboot oem device-info
 FAILED
 ```
@@ -90,9 +90,9 @@ FAILED
 6- **[Unlock Your Bootloader](https://motorola-global-portal.custhelp.com/app/standalone/bootloader/unlock-your-device-a)**
 
 7-
-```
+```sh
 $ fastboot oem get_unlock_data
-...
+...sh
 (bootloader) 3A558409XXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -104,7 +104,7 @@ anterior](https://motorola-global-portal.custhelp.com/app/standalone%2Fbootloade
 dispositivo. Hacer click en "Request Unlock Key" para recibir por email el "Unlock Code".
 
 9-
-```
+```sh
 $ fastboot oem unlock UNLOCK_CODE
 ```
 
@@ -113,12 +113,12 @@ $ fastboot oem unlock UNLOCK_CODE
 11- Descargar **TWRP**: [twrp-x.x.x-x-osprey.img](https://dl.twrp.me/osprey/)
 
 12-
-```
+```sh
 $ fastboot flash recovery twrp-x.x.x-x-osprey.img
 ```
 
 13-
-```
+```sh
 $ fastboot reboot bootloader
 ```
 Si en la pantalla aparece "Sin comandos", pulsar los botones <kbd>power</kbd>+<kbd>volume_up</kbd>
@@ -126,7 +126,7 @@ Si en la pantalla aparece "Sin comandos", pulsar los botones <kbd>power</kbd>+<k
 14- En TWRP, "Limpiar" > "Limpieza avanzada" y elegir las particiones a borrar
 
 15- Encendido normal (con depuración USB activada), y
-```
+```sh
 $ adb push lineage-xxxx.zip /
 ```
 
