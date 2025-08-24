@@ -88,7 +88,7 @@ En esta sesión estuvimos echándole un ojo:
 </div>
 
 También estuvimos comparando planes de VPS, ya que AsturGeek se lo estaba planteando.
-Sobre eso yo guardo [mis anotaciones aquí](https://javier.artiga.es/notas/vps/).
+Sobre eso yo guardo [mis anotaciones aquí](https://javier.artiga.es/notas/vps).
 
 ### 3. Networking
 
