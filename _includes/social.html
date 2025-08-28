@@ -1,23 +1,6 @@
 {%- assign social = site.arreando.social_links -%}
 
 <ul class="social-media-list">
-  {%- if social.twitter -%}
-  <li>
-    <a class="icon-link"
-      href="https://twitter.com/{{
-        social.twitter | cgi_escape | escape
-      }}"
-      target="_blank">
-      <svg class="svg-icon icon-twitter"><use xlink:href="#twitter"></use></svg>
-    </a>
-    <a class="black-link"
-      href="https://twitter.com/{{
-        social.twitter | cgi_escape | escape
-      }}"
-      target="_blank">[Twitter]
-    </a>
-  </li>
-  {%- endif -%}
   {%- if social.github -%}
   <li>
     <a class="icon-link"
@@ -75,6 +58,23 @@
       href="https://reddit.com/user/{{ social.reddit | cgi_escape | escape }}"
     >
       [Reddit]
+    </a>
+  </li>
+  {%- endif -%}
+  {%- if social.twitter -%}
+  <li>
+    <a class="icon-link"
+      href="https://twitter.com/{{
+        social.twitter | cgi_escape | escape
+      }}"
+      target="_blank">
+      <svg class="svg-icon icon-twitter"><use xlink:href="#twitter"></use></svg>
+    </a>
+    <a class="black-link"
+      href="https://twitter.com/{{
+        social.twitter | cgi_escape | escape
+      }}"
+      target="_blank">[Twitter]
     </a>
   </li>
   {%- endif -%}
