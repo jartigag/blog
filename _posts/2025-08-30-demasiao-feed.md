@@ -1,7 +1,7 @@
 ---
 title: "demasiao feed"
 layout: post
-date: 2025-08-30
+date: 2025-08-29
 permalink: demasiao-feed
 author: jartigag
 image: /assets/images/posts/c-tangana-demasiadas-mujeres.png
