@@ -34,7 +34,7 @@ twitterReplies: https://twitter.com/jartigag/status/yyyyyyyyyyyyyyyyyyy
 
 ---
 
-> contra el vicio de pedir, la virtud de no dar
+> "Contra el vicio de pedir, la virtud de no dar" (Mi padre, que cita este refrán siempre que puede)
 
 Nadie duda de que procesar toda la información que recibimos es absolutamente imposible.
 Entonces, ¿cómo escogemos aquello a lo que realmente queremos prestarle atención?
