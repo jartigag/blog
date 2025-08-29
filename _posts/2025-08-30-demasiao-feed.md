@@ -80,7 +80,7 @@ c-tangana-demasiadas-mujeres.png">
 
 Primero, vamos a sondear el problema y entenderlo.
 Hablemos sólo de **"leer las noticias"**.
-Para tener algo de lo que partir, ¿os parece si echamos unas cuentas a partir de mi lector de RSS[^1]?
+Para tener algo de lo que partir, ¿os parece si echamos unas cuentas con mi lector de RSS[^1]?
 
 [^1]: Sí, [RSS](https://es.wikipedia.org/wiki/RSS). Que sí lo conoces... ¡Lo del iconito naranja ese! <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/128px-Feed-icon.svg.png" alt="el icono de RSS" height="28" width="28" style="display:inline;vertical-align:middle;">
 
