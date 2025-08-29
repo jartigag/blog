@@ -84,7 +84,6 @@ Para tener algo de lo que partir, ¿os parece si echamos unas cuentas a partir d
 [^1]: Sí, [RSS](https://es.wikipedia.org/wiki/RSS). Que sí lo conoces... ¡Lo del iconito naranja ese! <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/128px-Feed-icon.svg.png" alt="el icono de RSS" height="28" width="28" style="display:inline;vertical-align:middle;">
 
 Recibo los titulares de un par de periódicos nacionales + los locales que me interesan + el telediario.
-
 Eso ya pueden ser unos 100-150 artículos al día.
 También estoy suscrito al feed de unos 15 medios (¿¿15?? De aquí voy a quitar unos cuantos pero ya)
 relacionados con tecnología de distintas formas: linux, sysadmin, generalista, seguridad, internacional...
@@ -93,7 +92,7 @@ Ya van varios cientos de líneas por escanear, sólo para filtrar qué leer.
 ¡Todavía ni he entrado a leer ninguno!
 
 Supongo que es el coste de **informarse con un poco de pluralidad**, ¿no..?
-Quizá pueda considerarse un **coste excesivo**, si lo miramos detenidamente.
+No sé, quizá pueda considerarse un **coste excesivo**, si lo miramos detenidamente.
 
 Aparte, por RSS también sigo más de 25 **blogs personales**, que en realidad son los que más me interesan.
 En estos hay entradas nuevas un par de veces al mes si eso, con suerte.
@@ -133,7 +132,7 @@ $ grep "2022-08-30" rainbowstream_timeline.stream.txt | wc -l
 No considero que sea un usuario especialmente intensivo de estas apps.
 Aunque imagino que casi cualquier persona a la que le preguntes te dirá lo mismo...
 Depende de con quién te compares y en qué momento.
-Pero, para poder tomar consciencia del asunto, **es necesario que cada uno saque sus propios números**.
+Sin embargo, para poder tomar consciencia del asunto, **es necesario que cada uno saque sus propios números**.
 Yo voy a seguir analizando los míos.
 
 [[ Algoritmos en redes sociales ]]
@@ -174,7 +173,7 @@ Pero tantos cambios de contexto... ]]
 
 De primeras, una notificación cuesta muy poco leerla y normalmente también cuesta poco contestarla.
 Como ya sabrás por experiencia propia, el verdadero problema no viene por la notificación en sí, sino por el círculo vicioso que se forma cuando pones el móvil en tu mano, ya que estás abres nosequé otra app, empiezas a deslizar con tu dedo...
-Y, de repente, han pasado 10 minutos (o según cómo te pille, diez los primeros) en los que no recuerdas qué ha pasado,
+Y, de repente, han pasado 10 minutos (o según cómo te pille, diez son sólo los primeros) en los que no recuerdas qué ha pasado,
 pero [algo te ha mantenido pegado a la pantalla](/sal-de-la-maquina#3-origen-y-consecuencias-de-la-epidemia).
 
 [[ [My Addictometer](https://nanhekadam.github.io/home/myaddictometer/myaddictometer.html) ]]
