@@ -9,6 +9,7 @@
     - android
     - seat
     - coche
+    - twitch
     mastodonReplies: https://mastodon.social/@jartigag/111318786486693868
     twitterReplies: https://twitter.com/jartigag/status/1718668996877181098
     telegramReplies: https://t.me/jartigag_blog/47
