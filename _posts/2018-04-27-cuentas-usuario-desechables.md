@@ -18,7 +18,7 @@
     telegramReplies: https://t.me/jartigag_blog/18
 ---
 
-> “Una falsa identidad es más eficaz que una máscara de Guy Fawkes” - "V de Vendetta"
+> "Una falsa identidad es más eficaz que una máscara de Guy Fawkes" - (V de Vendetta, 2005)
 
 ## /índice:
 - [Correos temporales](#correos-temporales)
