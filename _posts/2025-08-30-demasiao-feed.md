@@ -133,7 +133,7 @@ $ grep "2022-08-30" rainbowstream_timeline.stream.txt | wc -l
 No considero que sea un usuario especialmente intensivo de estas apps.
 Aunque imagino que casi cualquier persona a la que le preguntes te dirá lo mismo...
 Depende de con quién te compares y en qué momento.
-Sin embargo, para poder tomar consciencia del asunto, **es necesario que cada uno saque sus propios números**.
+Sin embargo, para poder tomar conciencia del asunto, **es necesario que cada uno saque sus propios números**.
 Yo voy a seguir analizando los míos.
 
 [[ Algoritmos en redes sociales ]]
