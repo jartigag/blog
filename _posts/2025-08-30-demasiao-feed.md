@@ -30,7 +30,7 @@ tag:
 
 mastodonReplies: https://mastodon.social/@jartigag/xxxxxxxxxxxxxxxxxx
 
-twitterReplies: https://twitter.com/jartigag/status/yyyyyyyyyyyyyyyyyyy
+telegramReplies: https://t.me/jartigag_blog/y
 
 ---
 
@@ -50,7 +50,8 @@ Que de verdad pudiéramos elegir cómo organizamos nuestros inputs.
 
 <!--p text-align="center">
 
-<img src="{{site.baseurl}}/assets/images/posts/x.x">
+<img src="{{site.baseurl}}/assets/images/posts/
+c-tangana-demasiadas-mujeres.png">
 
 </p-->
 
