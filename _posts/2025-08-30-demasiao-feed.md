@@ -24,6 +24,12 @@ tag:
 
 - twitter
 
+- instagram
+
+- linkedin
+
+- github
+
 - twitch
 
 - android
@@ -70,16 +76,26 @@ c-tangana-demasiadas-mujeres.png">
 
 ## Timelines
 
-[[ Timelines algorítmicos: Instagram, LinkedIn. Configurables: Twitter, Reddit. ]]
+Las plataformas sociales no son todas iguales en la manera en que presentan la información. Algunas, como Instagram, LinkedIn o Twitter (ahora X), dependen casi por completo de **algoritmos** que deciden por ti qué verás primero. Sus timelines son cajas negras: muestran lo que creen que te retendrá más tiempo, no necesariamente lo que quieres ver.
 
-[[ Timelines cronológicos: RSS, Mastodon, Github, e-mail. ]]
+Otras, como Reddit, ofrecen —al menos en teoría— la posibilidad de configurar el orden de lo que ves: cronológico, por popularidad o por relevancia en tu comunidad. Al ser **configurable**, el usuario recupera un mínimo de control, aunque sea limitado.
 
-[[ ¿Timelines curados por equipo de editores? ]]
+La pregunta es: ¿hasta qué punto esa "configurabilidad" es real? ¿Cuántos usuarios eligen de verdad el orden cronológico o ajustan sus preferencias? ¿Cuántos aceptan la versión por defecto, diseñada para maximizar la permanencia y, por tanto, los ingresos publicitarios?
+
+Existen todavía espacios donde es el tiempo, orden natural de la información, el criterio para organizar lo que vemos: RSS, Mastodon, Github, incluso el correo electrónico. En los timelines **cronológicos**, el flujo respeta la secuencia real de los acontecimientos: lo más reciente aparece primero. Sin filtros invisibles. Sin priorizaciones con interés ajeno.
+
+Este modelo tiene una virtud esencial: la transparencia. Tú decides qué fuentes sigues, y el sistema sólo las ordena según su momento de publicación. Sin embargo, este enfoque tiene un precio: la sobrecarga. Si sigues demasiadas fuentes, la información se acumula sin control, y la responsabilidad de filtrar pasa a ser completamente tuya.
+
+Aparte de los algoritmos y el orden cronológico, existe otro modelo clásico: el de los timelines **curados por editores** profesionales. Este enfoque, típico de medios de comunicación tradicionales, confía en un equipo de personas para seleccionar y ordenar la información más relevante.
+
+Su principal fortaleza es la intencionalidad. Detrás de cada pieza hay un criterio explícito: relevancia, rigor, interés temático. A diferencia de los algoritmos, los editores pueden aportar contexto, jerarquía y diversidad de perspectivas, no sólo maximizar permanencia del usuario.
+
+Claro, esto responde a líneas editoriales, sesgos personales o incluso sesgos personales. La decisión de qué importa y qué no sigue delegándose en algo ajeno. La diferencia es que es un humano en vez de una máquina.
 
 ## Informarse
 
 Primero, vamos a sondear el problema y entenderlo.
-Hablemos sólo de **"leer las noticias"**.
+Hablemos sólo de "**leer las noticias**".
 Para tener algo de lo que partir, ¿os parece si echamos unas cuentas con mi lector de RSS[^1]?
 
 [^1]: Sí, [RSS](https://es.wikipedia.org/wiki/RSS). Que sí lo conoces... ¡Lo del iconito naranja ese! <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/128px-Feed-icon.svg.png" alt="el icono de RSS" height="28" width="28" style="display:inline;vertical-align:middle;">
