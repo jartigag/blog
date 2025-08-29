@@ -2,6 +2,22 @@
 title: "demasiao feed"
 layout: post
 date: 2025-08-30
+permalink: demasiao-feed
+author: jartigag
+image: /assets/images/posts/c-tangana-demasiadas-mujeres.png
+tag:
+- herramientas
+- web
+- reflexiones
+- mastodon 
+- twitter
+- instagram
+- linkedin
+- github
+- twitch
+- android
+mastodonReplies: https://mastodon.social/@jartigag/xxxxxxxxxxxxxxxxxx
+telegramReplies: https://t.me/jartigag_blog/y
 ---
 
 > "Contra el vicio de pedir, la virtud de no dar" (Mi padre, que cita este refrán siempre que puede)
@@ -19,12 +35,9 @@ Que de verdad pudiéramos elegir cómo organizamos nuestros inputs.
 ¿Cómo lo haríamos?
 
 <p text-align="center">
-
 <img src="{{site.baseurl}}/assets/images/posts/
 c-tangana-demasiadas-mujeres.png">
-
 </p>
-
 
 ## /índice:
 
