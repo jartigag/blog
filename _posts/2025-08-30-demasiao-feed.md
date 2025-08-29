@@ -48,12 +48,12 @@ Imaginemos por un momento que no fuera un negocio.
 Que de verdad pudiéramos elegir cómo organizamos nuestros inputs.
 ¿Cómo lo haríamos?
 
-<!--p text-align="center">
+<p text-align="center">
 
 <img src="{{site.baseurl}}/assets/images/posts/
 c-tangana-demasiadas-mujeres.png">
 
-</p-->
+</p>
 
 
 ## /índice:
