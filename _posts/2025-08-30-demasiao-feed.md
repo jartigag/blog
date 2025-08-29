@@ -156,7 +156,7 @@ Las quería comparar con las de un móvil que tuve para el trabajo (también And
 De todas formas, pienso que en lo laboral deberían contabilizarse por un lado la mensajería instantánea y por otro los correos,
 que suelen requerir tiempos distintos para entenderlos, actuar y redactar una respuesta.
 Esto es parte del trabajo, por supuesto.
-Aún así, es la parte que llega desde fuera e interrumpe tu tarea actual, **al menos durante el instante en el que valoras si lo que entra es más prioritario** que lo que estabas haciendo.
+Aun así, es la parte que llega desde fuera e interrumpe tu tarea actual, **al menos durante el instante en el que valoras si lo que entra es más prioritario** que lo que estabas haciendo.
 
 <!-- {{ -->
 
