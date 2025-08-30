@@ -210,3 +210,7 @@ A mí ahora mismos me sale el símbolo ∞ en el número de pestañas abiertas e
 Mala señal...
 Al final, ni lo lees ni lo cierras: lo arrastras como una losa silenciosa.
 El cuento de Sísifo, de nunca acabar.
+
+Citando a C. Tangana, esta música del infierno sonará el día de nuestro funeral, cuando la arena haya caído por completo al cono de abajo.
+Entonces aún me acordaré de ti...
+Demasiadas llamadas de atención.
