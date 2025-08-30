@@ -166,7 +166,7 @@ Yo voy a seguir analizando los míos.
 
 ¿Sabes cuántas notificaciones recibes cada día en tu móvil?
 Sí, un montón, ¿pero cuántas dirías que son?
-Yo las he sumado en el mío.
+Yo las he sumado.
 
 Está en **Notificaciones > Historial de notificaciones > Últimas 24 horas** (es un Android 16).
 Quitando la *<u>gran</u>* cantidad de aplicaciones/grupos que tengo en silencio, el teléfono reclama mi atención fácilmente 100 veces al día (algunas de ellas agrupadas, menos mal).
