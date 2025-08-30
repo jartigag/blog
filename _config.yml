@@ -5,6 +5,7 @@ url: https://jartigag.blog # this is your site's root address.
 description: > # this means to ignore newlines until "show_excerpts:"
   reconnecting.. 🌐
 favicon: "./favicon.ico" # set the favicon of the site
+timezone: Europe/Madrid #  The docs say it has to be the IANA term.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 permalink: /:title/
@@ -32,7 +33,7 @@ arreando:
     rss: RSS
 
 # Build settings
-remothe_theme: jartigag/arreando # note, please use jartigag/arreando if you want to publish to Github Pages.
+remote_theme: jartigag/arreando # note, please use jartigag/arreando if you want to publish to Github Pages.
 
 plugins:
   - jekyll-feed
