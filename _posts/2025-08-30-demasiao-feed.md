@@ -211,7 +211,7 @@ Mala señal...
 Al final, ni lo lees ni lo cierras: lo arrastras como una losa silenciosa.
 El cuento de Sísifo, de nunca acabar.
 
-![](https://commons.wikimedia.org/wiki/File:Punishment_sisyph.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Punishment_sisyph.jpg/960px-Punishment_sisyph.jpg)
 
 Citando a C. Tangana, esta música del infierno sonará el día de nuestro funeral, cuando la arena haya caído por completo al cono de abajo.
 Entonces aún me acordaré de ti...
