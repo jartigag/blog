@@ -174,7 +174,7 @@ Notificaciones que por lo general quiero recibir, ojo.
 Si no, las silenciaría.
 Pequeñas interrupciones, pero ya son unas cuantas.
 
-Las quería comparar con las de un móvil que tuve para el trabajo (también Android 12, aunque con capa de personalización Samsung) pero no he encontrado el dato tan fácilmente.
+Las quería comparar con las de un móvil que tuve para el trabajo (también Android, en su versión 12, aunque con capa de personalización Samsung) pero no he encontrado el dato tan fácilmente.
 De todas formas, pienso que en lo laboral deberían contabilizarse por un lado la mensajería instantánea y por otro los correos,
 que suelen requerir tiempos distintos para entenderlos, actuar y redactar una respuesta.
 Esto es parte del trabajo, por supuesto.
