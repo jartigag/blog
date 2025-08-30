@@ -206,5 +206,7 @@ Pestañas que dejas abiertas "para leer luego", marcadores que acumulas como si 
 
 Esa pila virtual se convierte en otra fuente de ansiedad: no es información viva, pero en tu mente tiene el peso de una deuda.
 Cada enlace guardado es una microtarea pendiente y cada día que pasa menos sentido tiene revisarla.
+A mí ahora mismos me sale el símbolo ∞ en el número de pestañas abiertas en el navegador del móvil.
+Mala señal...
 Al final, ni lo lees ni lo cierras: lo arrastras como una losa silenciosa.
 El cuento de Sísifo, de nunca acabar.
