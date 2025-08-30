@@ -133,7 +133,7 @@ En consecuencia, tu timeline deja de ser un reflejo de la realidad para converti
 
 Y cuando el timeline ya no basta, llega la notificación push:
 ese pequeño empujón que rompe tu concentración para recordarte que hay algo "nuevo" esperándote.
-Esto cambia el paradigma: de tener que ir tú a buscar la información, a qué la información venga a buscarte e incluso a interrumpirte.
+Esto cambia el paradigma: de tener que ir tú a buscar la información, a que la información venga a buscarte e incluso a interrumpirte.
 
 Hace tiempo monté una prueba rápida usando algunas herramientas de línea de comandos[^2], con la que quería medir el [goteo de posts](https://www.twitch.tv/videos/1576283289)[^3] que percibo yo como usuario de estas dos redes sociales de microblogging.
 Sobre todo, quise recoger cuántas micro-publicaciones vería un día cualquiera en mis timelines, si las leyera todas.
