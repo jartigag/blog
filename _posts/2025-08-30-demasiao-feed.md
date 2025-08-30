@@ -66,7 +66,7 @@ La pregunta es:
 ¿Cuántos usuarios eligen de verdad el orden cronológico o ajustan sus preferencias?
 ¿Cuántos aceptan la versión por defecto, diseñada para maximizar la permanencia y, por tanto, los ingresos publicitarios?
 
-Existen todavía espacios donde es el tiempo, orden natural de la información, el criterio para organizar lo que vemos: RSS, Mastodon, Github, incluso el correo electrónico.
+Existen todavía espacios donde es el tiempo, orden natural de la información, el criterio para organizar lo que vemos: Mastodon, Github, incluso el correo electrónico.
 En los timelines **cronológicos**, el flujo respeta la secuencia real de los acontecimientos: lo más reciente aparece primero. Sin filtros invisibles.
 Sin priorizaciones con interés ajeno.
 
@@ -112,7 +112,7 @@ No seré yo quien le quite mérito al esfuerzo que implica seguir escribiendo un
 Las plataformas de vídeo como Twitch o YouTube añaden otra capa de complejidad.
 Aquí no sólo hablamos de leer titulares, sino de consumir contenidos mucho más largos y exigentes en tiempo: directos que duran horas, vídeos recomendados que aparecen en la portada sin que los busques, tu lista infinita de "ver más tarde"...
 
-El algoritmo juega aquí un papel aún más agresivo: no espera a que vayas a buscar algo, te lo empuja.
+En estos casos, el algoritmo juega un papel aún más agresivo: no espera a que vayas a buscar algo, te lo empuja.
 Y lo hace conociendo tus horarios, lo que sueles ver antes de dormir, lo que pones de fondo mientras trabajas, etc.
 En Twitch, además, hay un componente de urgencia falsa: si no entras ahora, te lo pierdes. Eso explota otra debilidad humana, porque ¿quién quiere perderse nada?
 
