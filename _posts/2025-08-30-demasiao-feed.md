@@ -53,21 +53,37 @@ c-tangana-demasiadas-mujeres.png">
 
 ## Timelines
 
-Las plataformas sociales no son todas iguales en la manera en que presentan la información. Algunas, como Instagram, LinkedIn o Twitter (ahora X), dependen casi por completo de **algoritmos** que deciden por ti qué verás primero. Sus timelines son cajas negras: muestran lo que creen que te retendrá más tiempo, no necesariamente lo que quieres ver.
+Las plataformas sociales no son todas iguales en la manera en que presentan la información.
+Algunas, como Instagram, LinkedIn o Twitter (ahora X), dependen casi por completo de **algoritmos** que deciden por ti qué verás primero.
+Sus timelines son cajas negras: muestran lo que creen que te retendrá más tiempo, no necesariamente lo que quieres ver.
 
-Otras, como Reddit, ofrecen —al menos en teoría— la posibilidad de configurar el orden de lo que ves: cronológico, por popularidad o por relevancia en tu comunidad. Al ser **configurable**, el usuario recupera un mínimo de control, aunque sea limitado.
+Otras, como Reddit, ofrecen —al menos en teoría— la posibilidad de configurar el orden de lo que ves:
+cronológico, por popularidad o por relevancia en tu comunidad.
+Al ser **configurable**, el usuario recupera un mínimo de control, aunque sea limitado.
 
-La pregunta es: ¿hasta qué punto esa "configurabilidad" es real? ¿Cuántos usuarios eligen de verdad el orden cronológico o ajustan sus preferencias? ¿Cuántos aceptan la versión por defecto, diseñada para maximizar la permanencia y, por tanto, los ingresos publicitarios?
+La pregunta es:
+¿hasta qué punto esa "configurabilidad" es real?
+¿Cuántos usuarios eligen de verdad el orden cronológico o ajustan sus preferencias?
+¿Cuántos aceptan la versión por defecto, diseñada para maximizar la permanencia y, por tanto, los ingresos publicitarios?
 
-Existen todavía espacios donde es el tiempo, orden natural de la información, el criterio para organizar lo que vemos: RSS, Mastodon, Github, incluso el correo electrónico. En los timelines **cronológicos**, el flujo respeta la secuencia real de los acontecimientos: lo más reciente aparece primero. Sin filtros invisibles. Sin priorizaciones con interés ajeno.
+Existen todavía espacios donde es el tiempo, orden natural de la información, el criterio para organizar lo que vemos: RSS, Mastodon, Github, incluso el correo electrónico.
+En los timelines **cronológicos**, el flujo respeta la secuencia real de los acontecimientos: lo más reciente aparece primero. Sin filtros invisibles.
+Sin priorizaciones con interés ajeno.
 
-Este modelo tiene una virtud esencial: la transparencia. Tú decides qué fuentes sigues, y el sistema sólo las ordena según su momento de publicación. Sin embargo, este enfoque tiene un precio: la sobrecarga. Si sigues demasiadas fuentes, la información se acumula sin control, y la responsabilidad de filtrar pasa a ser completamente tuya.
+Este modelo tiene una virtud esencial: la **transparencia**.
+Tú decides qué fuentes sigues, y el sistema sólo las ordena según su momento de publicación.
+Sin embargo, este enfoque tiene un precio: la **sobrecarga**.
+Si sigues demasiadas fuentes, la información se acumula sin control, y la responsabilidad de filtrar pasa a ser completamente tuya.
 
-Aparte de los algoritmos y el orden cronológico, existe otro modelo clásico: el de los timelines **curados por editores** profesionales. Este enfoque, típico de medios de comunicación tradicionales, confía en un equipo de personas para seleccionar y ordenar la información más relevante.
+Aparte de los algoritmos y el orden cronológico, existe otro modelo clásico: el de los timelines **curados por editores** profesionales.
+Este enfoque, típico de medios de comunicación tradicionales, confía en un equipo de personas para seleccionar y ordenar la información más relevante.
 
-Su principal fortaleza es la intencionalidad. Detrás de cada pieza hay un criterio explícito: relevancia, rigor, interés temático. A diferencia de los algoritmos, los editores pueden aportar contexto, jerarquía y diversidad de perspectivas, no sólo maximizar permanencia del usuario.
+Su principal fortaleza es la **intencionalidad**. Detrás de cada pieza hay un criterio explícito: relevancia, rigor, interés temático.
+A diferencia de los algoritmos, los editores pueden aportar contexto, jerarquía y diversidad de perspectivas, no sólo maximizar permanencia del usuario.
 
-Claro, esto responde a líneas editoriales, sesgos personales o incluso sesgos personales. La decisión de qué importa y qué no sigue delegándose en algo ajeno. La diferencia es que es un humano en vez de una máquina.
+Claro, esto responde a líneas editoriales, **sesgos** personales o incluso intereses políticos.
+La decisión de qué importa y qué no sigue delegándose en algo ajeno.
+La diferencia es que es un humano en vez de una máquina.
 
 ## Informarse
 
@@ -93,14 +109,31 @@ En estos hay entradas nuevas un par de veces al mes si eso, con suerte.
 Pero vamos, que es totalmente entendible.
 No seré yo quien le quite mérito al esfuerzo que implica seguir escribiendo un blog personal.
 
-[[ Feeds vídeo: Twitch, YouTube. Algoritmo de recomendación, directos, ver más tarde. ]]
+Las plataformas de vídeo como Twitch o YouTube añaden otra capa de complejidad.
+Aquí no sólo hablamos de leer titulares, sino de consumir contenidos mucho más largos y exigentes en tiempo: directos que duran horas, vídeos recomendados que aparecen en la portada sin que los busques, tu lista infinita de "ver más tarde"...
+
+El algoritmo juega aquí un papel aún más agresivo: no espera a que vayas a buscar algo, te lo empuja.
+Y lo hace conociendo tus horarios, lo que sueles ver antes de dormir, lo que pones de fondo mientras trabajas, etc.
+En Twitch, además, hay un componente de urgencia falsa: si no entras ahora, te lo pierdes. Eso explota otra debilidad humana, porque ¿quién quiere perderse nada?
 
 Ya vemos que la cantidad de inputs es excesiva.
 Necesitamos que esté ordenada y filtrada de alguna forma.
 
 ## Scroll infinito
 
-[[ Twitter/X y su alternativa libre-federada, Mastodon. ]]
+Twitter es quizá el paradigma del scroll infinito: un flujo constante, siempre activo, que aprovecha cada hueco de tu atención para ofrecerte más contenido, más reacciones, más polémicas. Cada actualización de timeline es una **promesa de novedad**, convirtiendo el gesto de deslizar en algo automático.
+
+Su alternativa libre y federada, **Mastodon**, plantea una dinámica distinta.
+Aquí, el orden puede ser cronológico y no hay algoritmos manipulando lo que deberías ver.
+
+Los algoritmos en redes sociales son mecanismos de retención.
+Este modelo tiene consecuencias claras: polarización, burbujas de información, refuerzo de opinión.
+Si lo que te mantiene dentro es lo que te confirma y te engancha emocionalmente, el algoritmo priorizará eso.
+En consecuencia, tu timeline deja de ser un reflejo de la realidad para convertirse en un espejo deformante a la medida de tu perfil de consumo.
+
+Y cuando el timeline ya no basta, llega la notificación push:
+ese pequeño empujón que rompe tu concentración para recordarte que hay algo "nuevo" esperándote.
+Esto cambia el paradigma: de tener que ir tú a buscar la información, a qué la información venga a buscarte e incluso a interrumpirte.
 
 Hace tiempo monté una prueba rápida usando algunas herramientas de línea de comandos[^2], con la que quería medir el [goteo de posts](https://www.twitch.tv/videos/1576283289)[^3] que percibo yo como usuario de estas dos redes sociales de microblogging.
 Sobre todo, quise recoger cuántas micro-publicaciones vería un día cualquiera en mis timelines, si las leyera todas.
@@ -129,10 +162,6 @@ Depende de con quién te compares y en qué momento.
 Sin embargo, para poder tomar conciencia del asunto, **es necesario que cada uno saque sus propios números**.
 Yo voy a seguir analizando los míos.
 
-[[ Algoritmos en redes sociales ]]
-
-[[ De timelines a notificaciones push ]]
-
 ## Triggers
 
 ¿Sabes cuántas notificaciones recibes cada día en tu móvil?
@@ -151,27 +180,31 @@ que suelen requerir tiempos distintos para entenderlos, actuar y redactar una re
 Esto es parte del trabajo, por supuesto.
 Aun así, es la parte que llega desde fuera e interrumpe tu tarea actual, **al menos durante el instante en el que valoras si lo que entra es más prioritario** que lo que estabas haciendo.
 
-<!-- {{ -->
+Ante esto, ¿cuál es la solución?
+¿Desactivar todas las notificaciones?
+Probablemente no.
+Hay avisos que sí cumplen una función positiva:
+recordarte una cita, avisarte de un mensaje importante, incluso sacarte momentáneamente de una espiral de pensamientos y devolverte al presente.
 
-[[ Ante esto, ¿suprimir cualquier aviso? ¿Interacción?
-
-Para eso son las notificaciones.
-A veces incluso se agradecen.
-Que te saquen de tu propio pensamiento.
-
-Concentración / Ensimismamiento.
-
-Pero tantos cambios de contexto... ]]
-
-<!-- }} -->
+El problema es la densidad de esos microgolpes de atención.
+Cada aviso es un pequeño cambio de contexto, y nuestro cerebro paga un peaje cada vez que salta de una tarea a otra.
+Cientos de cambios de contexto al día acaban drenando tu capacidad de concentración para cosas importantes.
 
 De primeras, una notificación cuesta muy poco leerla y normalmente también cuesta poco contestarla.
 Como ya sabrás por experiencia propia, el verdadero problema no viene por la notificación en sí, sino por el círculo vicioso que se forma cuando pones el móvil en tu mano, ya que estás abres nosequé otra app, empiezas a deslizar con tu dedo...
 Y, de repente, han pasado 10 minutos (o según cómo te pille, diez son sólo los primeros) en los que no recuerdas qué ha pasado,
 pero [algo te ha mantenido pegado a la pantalla](/sal-de-la-maquina#3-origen-y-consecuencias-de-la-epidemia).
 
-[[ [My Addictometer](https://nanhekadam.github.io/home/myaddictometer/myaddictometer.html) ]]
+Si quieres ponerle números a tu caso, la app [My Addictometer](https://nanhekadam.github.io/home/myaddictometer/myaddictometer.html) te puede ser útil.
+El mero hecho de visualizar desbloqueos y minutos perdidos en gestos casi automáticos ya es una bofetada de realidad.
+Ya sabes lo que dicen: lo que no se mide no se puede mejorar.
 
 ### Backlog
 
-[[ Pestañas abiertas, marcadores. Newsletters. ]]
+A los ruidos constantes que ya hemos comentado se suma otro más sutil: el backlog autoimpuesto.
+Pestañas que dejas abiertas "para leer luego", marcadores que acumulas como si algún día fueras a repasarlos todos, newsletters que llegan cada mañana y que casi nunca abres.
+
+Esa pila virtual se convierte en otra fuente de ansiedad: no es información viva, pero en tu mente tiene el peso de una deuda.
+Cada enlace guardado es una microtarea pendiente y cada día que pasa menos sentido tiene revisarla.
+Al final, ni lo lees ni lo cierras: lo arrastras como una losa silenciosa.
+El cuento de Sísifo, de nunca acabar.
