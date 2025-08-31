@@ -75,7 +75,7 @@ Tú decides qué fuentes sigues, y el sistema sólo las ordena según su momento
 Sin embargo, este enfoque tiene un precio: la **sobrecarga**.
 Si sigues demasiadas fuentes, la información se acumula sin control, y la responsabilidad de filtrar pasa a ser completamente tuya.
 
-Aparte de los algoritmos y el orden cronológico, existe otro modelo clásico: el de los timelines **curados por editores** profesionales.
+Aparte de los algoritmos y el orden cronológico, tenemos otro modelo clásico: el de los timelines **curados por editores** profesionales.
 Este enfoque, típico de medios de comunicación tradicionales, confía en un equipo de personas para seleccionar y ordenar la información más relevante.
 
 Su principal fortaleza es la **intencionalidad**. Detrás de cada pieza hay un criterio explícito: relevancia, rigor, interés temático.
