@@ -178,7 +178,7 @@ Las quería comparar con las de un móvil que tuve para el trabajo (también And
 De todas formas, pienso que en lo laboral deberían contabilizarse por un lado la mensajería instantánea y por otro los correos,
 que suelen requerir tiempos distintos para entenderlos, actuar y redactar una respuesta.
 Esto es parte del trabajo, por supuesto.
-Aun así, es la parte que llega desde fuera e interrumpe tu tarea actual, **al menos durante el instante en el que valoras si lo que entra es más prioritario** que lo que estabas haciendo.
+Aun así, es la parte que llega desde fuera e interrumpe tu tarea actual, al menos durante el instante en el que **valoras si lo que entra es más prioritario** que lo que estabas haciendo.
 
 Ante esto, ¿cuál es la solución?
 ¿Desactivar todas las notificaciones?
@@ -188,7 +188,7 @@ recordarte una cita, avisarte de un mensaje importante, incluso sacarte momentá
 
 El problema es la densidad de esos microgolpes de atención.
 Cada aviso es un pequeño cambio de contexto, y nuestro cerebro paga un peaje cada vez que salta de una tarea a otra.
-Cientos de cambios de contexto al día acaban drenando tu capacidad de concentración para cosas importantes.
+Cientos de **cambios de contexto** al día acaban drenando tu capacidad de concentración para cosas importantes.
 
 De primeras, una notificación cuesta muy poco leerla y normalmente también cuesta poco contestarla.
 Como ya sabrás por experiencia propia, el verdadero problema no viene por la notificación en sí, sino por el círculo vicioso que se forma cuando pones el móvil en tu mano, ya que estás abres nosequé otra app, empiezas a deslizar con tu dedo...
