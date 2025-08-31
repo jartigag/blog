@@ -16,8 +16,8 @@ tag:
 - github
 - twitch
 - android
-mastodonReplies: https://mastodon.social/@jartigag/xxxxxxxxxxxxxxxxxx
-telegramReplies: https://t.me/jartigag_blog/y
+mastodonReplies: https://mastodon.social/@jartigag/115122971905841556
+telegramReplies: https://t.me/jartigag_blog/60
 ---
 
 > "Contra el vicio de pedir, la virtud de no dar" (Mi padre, que cita este refrán siempre que puede)
