@@ -126,12 +126,12 @@ Twitter es quizá el paradigma del scroll infinito: un flujo constante, siempre 
 Su alternativa libre y federada, **Mastodon**, plantea una dinámica distinta.
 Aquí, el orden puede ser cronológico y no hay algoritmos manipulando lo que deberías ver.
 
-Los algoritmos en redes sociales son mecanismos de retención.
-Este modelo tiene consecuencias claras: polarización, burbujas de información, refuerzo de opinión.
+Los algoritmos en redes sociales son mecanismos de **retención**.
+Este modelo tiene consecuencias claras: **polarización, burbujas de información, refuerzo de opinión**.
 Si lo que te mantiene dentro es lo que te confirma y te engancha emocionalmente, el algoritmo priorizará eso.
 En consecuencia, tu timeline deja de ser un reflejo de la realidad para convertirse en un espejo deformante a la medida de tu perfil de consumo.
 
-Y cuando el timeline ya no basta, llega la notificación push:
+Y cuando el timeline ya no basta, llega la **notificación push**:
 ese pequeño empujón que rompe tu concentración para recordarte que hay algo "nuevo" esperándote.
 Esto cambia el paradigma: de tener que ir tú a buscar la información, a que la información venga a buscarte e incluso a interrumpirte.
 
