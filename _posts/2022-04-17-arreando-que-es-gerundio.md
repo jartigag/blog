@@ -10,6 +10,8 @@
     - web
     - css
     - javascript
+    - github
+    - reflexiones
     mastodonReplies: https://mastodon.social/@jartigag/108148931771204614
     twitterReplies: https://twitter.com/jartigag/status/1515765005219766277
     telegramReplies: https://t.me/jartigag_blog/44
