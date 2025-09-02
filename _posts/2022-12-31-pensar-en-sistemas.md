@@ -10,6 +10,7 @@
     - libro
     - análisis
     - sistemas
+    - reflexiones
     mastodonReplies: https://mastodon.social/@jartigag/110158705100299773
     twitterReplies: https://twitter.com/jartigag/status/1644620053785063429
     telegramReplies: https://t.me/jartigag_blog/45
