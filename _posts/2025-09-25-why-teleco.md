@@ -9,8 +9,8 @@
     tag:
     - reflexiones
     - teleco
-    mastodonReplies: https://mastodon.social/deck/@jartigag/xx
-    telegramReplies: https://t.me/jartigag_blog/yy
+    mastodonReplies: https://mastodon.social/deck/@jartigag/115264398800769731
+    telegramReplies: https://t.me/jartigag_blog/67
 ---
 
 [https://escritura.social/jartigag/por-qué-teleco](https://escritura.social/jartigag/por-qué-teleco)
