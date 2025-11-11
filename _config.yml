@@ -1,4 +1,4 @@
-title: jartigag            # The title of the blog
+title: jartigag.blog       # The title of the blog
 author: "@jartigag"        # Your name
 email: jartigag@pm.me      # your email shown in the footer
 url: https://jartigag.blog # this is your site's root address.
@@ -23,13 +23,13 @@ arreando:
 
   # generate social links in about page.
   social_links:
-    twitter: jartigag
-    github: jartigag
-    telegram: jartigag
+    twitter:    jartigag
+    github:     jartigag
+    telegram:   jartigag
     mastodon: # Mastodon instances
     - username: jartigag
       instance: mastodon.social
-    linkedin: javier-artiga-garijo
+    linkedin:   javier-artiga-garijo
     rss: RSS
 
 # Build settings
