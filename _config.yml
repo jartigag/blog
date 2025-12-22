@@ -1,8 +1,8 @@
-title: jartigag.blog       # The title of the blog
-author: "@jartigag"        # Your name
-email: jartigag@pm.me      # your email shown in the footer
-url: https://jartigag.blog # this is your site's root address.
-description: > # this means to ignore newlines until "show_excerpts:"
+title: jartigag.blog                  # The title of the blog
+author: "@jartigag"                   # Your name
+email: jartigag@pm.me                 # your email shown in the footer
+url: https://jartigag.github.io/blog/ # this is your site's root address.
+description: >                        # this means to ignore newlines until "show_excerpts:"
   reconnecting.. 🌐
 favicon: "./favicon.ico" # set the favicon of the site
 timezone: Europe/Madrid #  The docs say it has to be the IANA term.
