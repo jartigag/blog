@@ -7,6 +7,6 @@ enthusiastic about continuous multidisciplinary learning, team building during b
 <a class="black-link" href="mailto:{{ site.email }}"><svg class="svg-icon"><use xlink:href="#mail"></use></svg> {{ site.email }}</a>
 
 also interested in:  
-[#dataviz](https://javier.artiga.es/dataviz/) [#freesoftware](../tags/#software-libre) [#music](https://javier.artiga.es/rec/)
+[#dataviz](https://jartigag.github.io/dataviz/) [#freesoftware](../tags/#software-libre) [#music](https://jartigag.github.io/rec/)
 
 more on my [personal webpage](https://javier.artiga.es/)
